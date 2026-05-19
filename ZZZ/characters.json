@@ -1064,6 +1064,61 @@
     "InGameSkins": [],
     "InternalName": "Promeia",
     "DisplayName": "Promeia"
+  },
+  {
+    "Keys": [
+      "pyrois"
+    ],
+    "ReleaseDate": "2026-06-17T00:00:00",
+    "Image": "Pyrois.webp",
+    "Rarity": 5,
+    "Element": "Ether",
+    "Class": "Attack",
+    "Region": [
+      "Phaethon"
+    ],
+    "ModFilesName": "Pyrois",
+    "InGameSkins": [],
+    "InternalName": "Pyrois",
+    "DisplayName": "Pyrois"
+  },
+  {
+    "Keys": [
+      "norma",
+      "norma hollowell",
+      "normahollowell"
+    ],
+    "ReleaseDate": "2026-06-17T00:00:00",
+    "Image": "Norma.webp",
+    "Rarity": 5,
+    "Element": "Fire",
+    "Class": "Stun",
+    "Region": [
+      "ESD"
+    ],
+    "ModFilesName": "Norma",
+    "InGameSkins": [],
+    "InternalName": "Norma",
+    "DisplayName": "Norma Hollowell"
+  },
+  {
+    "Keys": [
+      "velina",
+      "velina airgid",
+      "velinaairgid"
+    ],
+    "ReleaseDate": "2026-06-17T00:00:00",
+    "Image": "Velina.webp",
+    "Rarity": 5,
+    "Element": "Wind",
+    "Class": "Anomaly",
+    "Region": [
+      "ESD"
+    ],
+    "ModFilesName": "Velina",
+    "InGameSkins": [],
+    "InternalName": "Velina",
+    "DisplayName": "Velina Airgid"
   }
 ]
 

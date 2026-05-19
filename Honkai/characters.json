@@ -1399,5 +1399,25 @@
     "InGameSkins": [],
     "InternalName": "SilverWolf999",
     "DisplayName": "Silver Wolf Lv 999"
+  },
+  {
+    "Keys": [
+      "Mortenax_Blade",
+      "Mortenax-Blade",
+      "Mortenax",
+      "MortenaxBlade"
+    ],
+    "ReleaseDate": "2026-06-03T00:00:00",
+    "Image": "MortenaxBlade.webp",
+    "Rarity": 5,
+    "Element": "Fire",
+    "Class": "Nihility",
+    "Region": [
+      "The Xianzhou Luofu"
+    ],
+    "ModFilesName": "MortenaxBlade",
+    "InGameSkins": [],
+    "InternalName": "MortenaxBlade",
+    "DisplayName": "Mortenax Blade"
   }
 ]

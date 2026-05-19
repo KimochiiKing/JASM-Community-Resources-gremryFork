@@ -2164,5 +2164,24 @@
     "InGameSkins": [],
     "InternalName": "Varka",
     "DisplayName": "Varka"
+  },
+  {
+    "Keys": [
+      "nicole",
+      "nicole reeyn",
+      "nicolereeyn"
+    ],
+    "ReleaseDate": "2026-05-20T00:00:00",
+    "Image": "Nicole.webp",
+    "Rarity": 5,
+    "Element": "Pyro",
+    "Class": "Catalyst",
+    "Region": [
+      "Nod-Krai"
+    ],
+    "ModFilesName": "Nicole",
+    "InGameSkins": [],
+    "InternalName": "Nicole",
+    "DisplayName": "Nicole"
   }
 ]
