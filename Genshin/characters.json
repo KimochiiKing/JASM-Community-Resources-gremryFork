@@ -2183,5 +2183,56 @@
     "InGameSkins": [],
     "InternalName": "Nicole",
     "DisplayName": "Nicole"
+  },
+  {
+    "Keys": [
+      "prune"
+    ],
+    "ReleaseDate": "2026-05-20T00:00:00",
+    "Image": "Prune.webp",
+    "Rarity": 4,
+    "Element": "Anemo",
+    "Class": "Catalyst",
+    "Region": [
+      "Nod-Krai"
+    ],
+    "ModFilesName": "Prune",
+    "InGameSkins": [],
+    "InternalName": "Prune",
+    "DisplayName": "Prune"
+  },
+  {
+    "Keys": [
+      "lohen"
+    ],
+    "ReleaseDate": "2026-06-09T00:00:00",
+    "Image": "Lohen.webp",
+    "Rarity": 5,
+    "Element": "Cryo",
+    "Class": "Polearm",
+    "Region": [
+      "Mondstadt"
+    ],
+    "ModFilesName": "Lohen",
+    "InGameSkins": [],
+    "InternalName": "Lohen",
+    "DisplayName": "Lohen"
+  },
+  {
+    "Keys": [
+      "sandrone"
+    ],
+    "ReleaseDate": "2026-07-01T00:00:00",
+    "Image": "Sandrone.webp",
+    "Rarity": 5,
+    "Element": "Cryo",
+    "Class": "Claymore",
+    "Region": [
+      "Snezhnaya"
+    ],
+    "ModFilesName": "Sandrone",
+    "InGameSkins": [],
+    "InternalName": "Sandrone",
+    "DisplayName": "Sandrone"
   }
 ]

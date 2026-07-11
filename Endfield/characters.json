@@ -441,5 +441,80 @@
         "InGameSkins": [],
         "InternalName": "ZhuangFangyi",
         "DisplayName": "Zhuang Fangyi"
+    },
+    {
+        "Keys": [
+            "mifu",
+            "mi fu",
+            "mi_fu"
+        ],
+        "ReleaseDate": "2026-06-05T00:00:00",
+        "Image": "MiFu.webp",
+        "Rarity": 6,
+        "Element": "Physical",
+        "Class": "GreatSword",
+        "Region": [
+            "Wuling"
+        ],
+        "ModFilesName": "MiFu",
+        "InGameSkins": [],
+        "InternalName": "MiFu",
+        "DisplayName": "Mi Fu"
+    },
+    {
+        "Keys": [
+            "camille",
+            "camille arno",
+            "camille_arno"
+        ],
+        "ReleaseDate": "2026-06-05T00:00:00",
+        "Image": "Camille.webp",
+        "Rarity": 6,
+        "Element": "Heat",
+        "Class": "Polearm",
+        "Region": [
+            "Sesqa"
+        ],
+        "ModFilesName": "Camille",
+        "InGameSkins": [],
+        "InternalName": "Camille",
+        "DisplayName": "Camille"
+    },
+    {
+        "Keys": [
+            "arcane",
+            "li zhiyan",
+            "lizhiyan",
+            "li_zhiyan"
+        ],
+        "ReleaseDate": "2026-07-16T00:00:00",
+        "Image": "LiZhiyan.webp",
+        "Rarity": 6,
+        "Element": "Nature",
+        "Class": "ArtsUnit",
+        "Region": [
+            "TalosIIGeneralChamberOfCommerce"
+        ],
+        "ModFilesName": "LiZhiyan",
+        "InGameSkins": [],
+        "InternalName": "LiZhiyan",
+        "DisplayName": "Li Zhiyan"
+    },
+    {
+        "Keys": [
+            "liino"
+        ],
+        "ReleaseDate": "2026-08-09T00:00:00",
+        "Image": "Liino.webp",
+        "Rarity": 6,
+        "Element": "Electric",
+        "Class": "Polearm",
+        "Region": [
+            "TalosIIGeneralChamberOfCommerce"
+        ],
+        "ModFilesName": "Liino",
+        "InGameSkins": [],
+        "InternalName": "Liino",
+        "DisplayName": "Liino"
     }
 ]

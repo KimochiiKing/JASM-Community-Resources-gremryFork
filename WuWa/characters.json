@@ -867,5 +867,76 @@
     "InGameSkins": [],
     "InternalName": "Denia",
     "DisplayName": "Denia"
+  },
+  {
+    "Keys": [
+      "Lucy"
+    ],
+    "ReleaseDate": "2026-06-08T00:00:00",
+    "Image": "Lucy.webp",
+    "Rarity": 5,
+    "Element": "Spectro",
+    "Class": "Pistols",
+    "Region": [
+      "Lahai"
+    ],
+    "ModFilesName": "Lucy",
+    "InGameSkins": [],
+    "InternalName": "Lucy",
+    "DisplayName": "Lucy"
+  },
+  {
+    "Keys": [
+      "Rebecca"
+    ],
+    "ReleaseDate": "2026-06-08T00:00:00",
+    "Image": "Rebecca.webp",
+    "Rarity": 5,
+    "Element": "Electro",
+    "Class": "Pistols",
+    "Region": [
+      "Lahai"
+    ],
+    "ModFilesName": "Rebecca",
+    "InGameSkins": [],
+    "InternalName": "Rebecca",
+    "DisplayName": "Rebecca"
+  },
+  {
+    "Keys": [
+      "yangyang: xuanling",
+      "yangyang xuanling",
+      "xuanling",
+      "yangyang_xuanling"
+    ],
+    "ReleaseDate": "2026-07-10T00:00:00",
+    "Image": "YangyangXuanling.webp",
+    "Rarity": 5,
+    "Element": "Havoc",
+    "Class": "Sword",
+    "Region": [
+      "Huanglong"
+    ],
+    "ModFilesName": "YangyangXuanling",
+    "InGameSkins": [],
+    "InternalName": "Yangyang: Xuanling",
+    "DisplayName": "Yangyang: Xuanling"
+  },
+  {
+    "Keys": [
+      "Suisui"
+    ],
+    "ReleaseDate": "2026-07-30T00:00:00",
+    "Image": "Suisui.webp",
+    "Rarity": 5,
+    "Element": "Glacio",
+    "Class": "Rectifier",
+    "Region": [
+      "Huanglong"
+    ],
+    "ModFilesName": "Suisui",
+    "InGameSkins": [],
+    "InternalName": "Suisui",
+    "DisplayName": "Suisui"
   }
 ]
