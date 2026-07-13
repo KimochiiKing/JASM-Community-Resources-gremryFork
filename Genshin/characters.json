@@ -2234,5 +2234,22 @@
     "InGameSkins": [],
     "InternalName": "Sandrone",
     "DisplayName": "Sandrone"
+  },
+  {
+    "Keys": [
+      "linnea"
+    ],
+    "ReleaseDate": "2026-04-08T00:00:00",
+    "Image": "Linnea.webp",
+    "Rarity": 5,
+    "Element": "Geo",
+    "Class": "Bow",
+    "Region": [
+      "Nod-Krai"
+    ],
+    "ModFilesName": "Linnea",
+    "InGameSkins": [],
+    "InternalName": "Linnea",
+    "DisplayName": "Linnea"
   }
 ]
