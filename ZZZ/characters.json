@@ -1119,6 +1119,44 @@
     "InGameSkins": [],
     "InternalName": "Velina",
     "DisplayName": "Velina"
+  },
+  {
+    "Keys": [
+      "remielle",
+      "remielle dan",
+      "remielledan"
+    ],
+    "ReleaseDate": "2026-07-29T00:00:00",
+    "Image": "Remielle.webp",
+    "Rarity": 5,
+    "Element": "Lumiflux",
+    "Class": "Anomaly",
+    "Region": [
+      "CovenantOfDayat"
+    ],
+    "ModFilesName": "Remielle",
+    "InGameSkins": [],
+    "InternalName": "Remielle",
+    "DisplayName": "Remielle"
+  },
+  {
+    "Keys": [
+      "sigrid",
+      "sigrid de l'azur",
+      "sigriddelazur"
+    ],
+    "ReleaseDate": "2026-07-29T00:00:00",
+    "Image": "Sigrid.webp",
+    "Rarity": 5,
+    "Element": "Ice",
+    "Class": "Attack",
+    "Region": [
+      "APD"
+    ],
+    "ModFilesName": "Sigrid",
+    "InGameSkins": [],
+    "InternalName": "Sigrid",
+    "DisplayName": "Sigrid"
   }
 ]
 
