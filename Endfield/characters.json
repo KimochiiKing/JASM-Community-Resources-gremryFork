@@ -488,17 +488,17 @@
             "li_zhiyan"
         ],
         "ReleaseDate": "2026-07-16T00:00:00",
-        "Image": "LiZhiyan.webp",
+        "Image": "Arcane.webp",
         "Rarity": 6,
         "Element": "Nature",
         "Class": "ArtsUnit",
         "Region": [
             "TalosIIGeneralChamberOfCommerce"
         ],
-        "ModFilesName": "LiZhiyan",
+        "ModFilesName": "Arcane",
         "InGameSkins": [],
-        "InternalName": "LiZhiyan",
-        "DisplayName": "Li Zhiyan"
+        "InternalName": "Arcane",
+        "DisplayName": "Arcane"
     },
     {
         "Keys": [
