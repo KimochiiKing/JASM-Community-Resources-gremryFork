@@ -204,7 +204,14 @@
       "Fontaine"
     ],
     "ModFilesName": "Charlotte",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "CharlotteHurlockVariations",
+        "Image": "CharlotteHurlockVariations.png",
+        "InternalName": "CharlotteHurlockVariations",
+        "DisplayName": "Hurlock Variations"
+      }
+    ],
     "InternalName": "Charlotte",
     "DisplayName": "Charlotte"
   },
@@ -1801,7 +1808,14 @@
       "Natlan"
     ],
     "ModFilesName": "Citlali",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "CitlaliWhispersOfStarsAndSmoke",
+        "Image": "CitlaliWhispersOfStarsAndSmoke.png",
+        "InternalName": "CitlaliWhispersOfStarsAndSmoke",
+        "DisplayName": "Whispers of Stars and Smoke"
+      }
+    ],
     "InternalName": "Citlali",
     "DisplayName": "Citlali"
   },
@@ -2093,7 +2107,14 @@
       "Mondstadt"
     ],
     "ModFilesName": "Durin",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "DurinTowardTheDistantHorizon",
+        "Image": "DurinTowardTheDistantHorizon.png",
+        "InternalName": "DurinTowardTheDistantHorizon",
+        "DisplayName": "Toward the Distant Horizon"
+      }
+    ],
     "InternalName": "Durin",
     "DisplayName": "Durin"
   },
