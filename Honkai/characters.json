@@ -1472,5 +1472,43 @@
     "InGameSkins": [],
     "InternalName": "RinTohsaka",
     "DisplayName": "Rin Tohsaka"
+  },
+  {
+    "Keys": [
+      "RobinSummeretto",
+      "Robin Summeretto",
+      "Robin • Summeretto"
+    ],
+    "ReleaseDate": "2026-08-26T00:00:00",
+    "Image": "RobinSummeretto.webp",
+    "Rarity": 5,
+    "Element": "Wind",
+    "Class": "Remembrance",
+    "Region": [
+      "Penacony"
+    ],
+    "ModFilesName": "RobinSummeretto",
+    "InGameSkins": [],
+    "InternalName": "RobinSummeretto",
+    "DisplayName": "Robin • Summeretto"
+  },
+  {
+    "Keys": [
+      "AventurineWaveflair",
+      "Aventurine Waveflair",
+      "Aventurine • Waveflair"
+    ],
+    "ReleaseDate": "2026-09-16T00:00:00",
+    "Image": "AventurineWaveflair.webp",
+    "Rarity": 5,
+    "Element": "Quantum",
+    "Class": "Elation",
+    "Region": [
+      "IPC"
+    ],
+    "ModFilesName": "AventurineWaveflair",
+    "InGameSkins": [],
+    "InternalName": "AventurineWaveflair",
+    "DisplayName": "Aventurine • Waveflair"
   }
 ]
