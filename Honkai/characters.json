@@ -705,7 +705,14 @@
       "Herta Space Station"
     ],
     "ModFilesName": "RuanMei",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "RuanMeiPlumblossomLetter",
+        "Image": "Character_Skin_Ruan_Mei_Plumblossom_Letter.png",
+        "InternalName": "RuanMeiPlumblossomLetter",
+        "DisplayName": "Plumblossom Letter"
+      }
+    ],
     "InternalName": "RuanMei",
     "DisplayName": "Ruan Mei"
   },
@@ -1121,7 +1128,14 @@
       "Amphoreus"
     ],
     "ModFilesName": "Castorice",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "CastoriceGossamerFlutter",
+        "Image": "Character_Skin_Castorice_Gossamer_Flutter.png",
+        "InternalName": "CastoriceGossamerFlutter",
+        "DisplayName": "Gossamer Flutter"
+      }
+    ],
     "InternalName": "Castorice",
     "DisplayName": "Castorice"
   },
@@ -1322,10 +1336,17 @@
     "Element": "Fire",
     "Class": "Elation",
     "Region": [
-      "Planarcadia"
+      "Amphoreus"
     ],
     "ModFilesName": "Sparxie",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "SparxieCandyCoatedWaves",
+        "Image": "Character_Skin_Sparxie_Candy_Coated_Waves.png",
+        "InternalName": "SparxieCandyCoatedWaves",
+        "DisplayName": "Candy-Coated Waves"
+      }
+    ],
     "InternalName": "Sparxie",
     "DisplayName": "Sparxie"
   },
