@@ -1157,6 +1157,49 @@
     "InGameSkins": [],
     "InternalName": "Sigrid",
     "DisplayName": "Sigrid"
+  },
+  {
+    "Keys": [
+      "claret",
+      "claret flint",
+      "claretflint"
+    ],
+    "ReleaseDate": "2026-09-09T00:00:00",
+    "Image": "Claret.webp",
+    "Rarity": 5,
+    "Element": "Electric",
+    "Class": "Armorer",
+    "Region": [
+      "Roscaelifer",
+      "FlintWorks"
+    ],
+    "ModFilesName": "Claret",
+    "InGameSkins": [],
+    "InternalName": "Claret",
+    "DisplayName": "Claret"
+  },
+  {
+    "Keys": [
+      "pryce",
+      "roxy",
+      "roxy ifrita pryce",
+      "roxy pryce",
+      "roxyifritapryce"
+    ],
+    "ReleaseDate": "2026-09-09T00:00:00",
+    "Image": "Pryce.webp",
+    "Rarity": 5,
+    "Element": "Wind",
+    "Class": "Stun",
+    "Region": [
+      "Roscaelifer",
+      "FlintWorks"
+    ],
+    "ModFilesName": "Pryce",
+    "InGameSkins": [],
+    "InternalName": "Pryce",
+    "DisplayName": "Pryce"
   }
 ]
+
 
