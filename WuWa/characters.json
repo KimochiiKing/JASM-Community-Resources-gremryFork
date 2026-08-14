@@ -938,5 +938,73 @@
     "InGameSkins": [],
     "InternalName": "Suisui",
     "DisplayName": "Suisui"
+  },
+  {
+    "Keys": [
+      "Qingxiao"
+    ],
+    "ReleaseDate": "2026-08-20T00:00:00",
+    "Image": "Qingxiao.webp",
+    "Rarity": 5,
+    "Element": "Aero",
+    "Class": "Sword",
+    "Region": [
+      "Huanglong"
+    ],
+    "ModFilesName": "Qingxiao",
+    "InGameSkins": [],
+    "InternalName": "Qingxiao",
+    "DisplayName": "Qingxiao"
+  },
+  {
+    "Keys": [
+      "Jingran"
+    ],
+    "ReleaseDate": "2026-09-10T00:00:00",
+    "Image": "Jingran.webp",
+    "Rarity": 5,
+    "Element": "Fusion",
+    "Class": "Broadblade",
+    "Region": [
+      "Huanglong"
+    ],
+    "ModFilesName": "Jingran",
+    "InGameSkins": [],
+    "InternalName": "Jingran",
+    "DisplayName": "Jingran"
+  },
+  {
+    "Keys": [
+      "Hsin"
+    ],
+    "ReleaseDate": "2026-10-01T00:00:00",
+    "Image": "Hsin.webp",
+    "Rarity": 5,
+    "Element": "Electro",
+    "Class": "Rectifier",
+    "Region": [
+      "Huanglong"
+    ],
+    "ModFilesName": "Hsin",
+    "InGameSkins": [],
+    "InternalName": "Hsin",
+    "DisplayName": "Hsin"
+  },
+  {
+    "Keys": [
+      "Suoming"
+    ],
+    "ReleaseDate": "2026-10-22T00:00:00",
+    "Image": "Suoming.webp",
+    "Rarity": 5,
+    "Element": "Havoc",
+    "Class": "Rectifier",
+    "Region": [
+      "Huanglong"
+    ],
+    "ModFilesName": "Suoming",
+    "InGameSkins": [],
+    "InternalName": "Suoming",
+    "DisplayName": "Suoming"
   }
 ]
