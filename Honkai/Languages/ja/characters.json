@@ -1,7 +1,7 @@
 [
   {
     "InternalName": "Others",
-    "DisplayName": "角色"
+    "DisplayName": "キャラクター"
   },
   {
     "InternalName": "Weapons",
@@ -9,15 +9,15 @@
   },
   {
     "InternalName": "Trailblazer",
-    "DisplayName": "开拓者"
+    "DisplayName": "開拓者"
   },
   {
     "InternalName": "Arlan",
-    "DisplayName": "阿兰"
+    "DisplayName": "アーラン"
   },
   {
     "InternalName": "Asta",
-    "DisplayName": "艾丝妲"
+    "DisplayName": "アスター"
   },
   {
     "InternalName": "Bailu",
@@ -29,11 +29,11 @@
   },
   {
     "InternalName": "Bronya",
-    "DisplayName": "布洛妮娅"
+    "DisplayName": "ブローニャ"
   },
   {
     "InternalName": "Clara",
-    "DisplayName": "克拉拉"
+    "DisplayName": "クラーラ"
   },
   {
     "InternalName": "Dan Heng",
@@ -41,11 +41,11 @@
   },
   {
     "InternalName": "Dan Heng IL",
-    "DisplayName": "丹恒•饮月"
+    "DisplayName": "丹恒・飲月"
   },
   {
     "InternalName": "Dan Heng PT",
-    "DisplayName": "丹恒•腾荒"
+    "DisplayName": "丹恒・騰荒"
   },
   {
     "InternalName": "FuXuan",
@@ -53,7 +53,7 @@
   },
   {
     "InternalName": "Gepard",
-    "DisplayName": "杰帕德"
+    "DisplayName": "ジェパード"
   },
   {
     "InternalName": "Guinaifen",
@@ -61,15 +61,15 @@
   },
   {
     "InternalName": "Herta",
-    "DisplayName": "黑塔"
+    "DisplayName": "ヘルタ"
   },
   {
     "InternalName": "Himeko",
-    "DisplayName": "姬子"
+    "DisplayName": "姫子"
   },
   {
     "InternalName": "Hook",
-    "DisplayName": "虎克"
+    "DisplayName": "フック"
   },
   {
     "InternalName": "JingYuan",
@@ -77,45 +77,45 @@
   },
   {
     "InternalName": "Jingliu",
-    "DisplayName": "镜流"
+    "DisplayName": "鏡流"
   },
   {
     "InternalName": "Kafka",
-    "DisplayName": "卡芙卡"
+    "DisplayName": "カフカ"
   },
   {
     "InternalName": "Luka",
-    "DisplayName": "卢卡"
+    "DisplayName": "ルカ"
   },
   {
     "InternalName": "Luocha",
-    "DisplayName": "罗刹"
+    "DisplayName": "羅刹"
   },
   {
     "InternalName": "Lynx",
-    "DisplayName": "玲可"
+    "DisplayName": "リンクス"
   },
   {
     "InternalName": "March7",
-    "DisplayName": "三月七",
+    "DisplayName": "三月なのか",
     "InGameSkins": [
       {
         "InternalName": "March7Hunt",
-        "DisplayName": "三月七•巡猎"
+        "DisplayName": "三月なのか・巡狩"
       },
       {
         "InternalName": "MarchNS",
-        "DisplayName": "冬去煦至"
+        "DisplayName": "冬の後の日差し"
       }
     ]
   },
   {
     "InternalName": "Natasha",
-    "DisplayName": "娜塔莎"
+    "DisplayName": "ナターシャ"
   },
   {
     "InternalName": "Pela",
-    "DisplayName": "佩拉"
+    "DisplayName": "ペラ"
   },
   {
     "InternalName": "Qingque",
@@ -123,19 +123,19 @@
   },
   {
     "InternalName": "Sampo",
-    "DisplayName": "桑博"
+    "DisplayName": "サンポ"
   },
   {
     "InternalName": "Seele",
-    "DisplayName": "希儿"
+    "DisplayName": "ゼーレ"
   },
   {
     "InternalName": "Serval",
-    "DisplayName": "希露瓦"
+    "DisplayName": "セーバル"
   },
   {
     "InternalName": "SilverWolf",
-    "DisplayName": "银狼"
+    "DisplayName": "銀狼"
   },
   {
     "InternalName": "Sushang",
@@ -143,15 +143,15 @@
   },
   {
     "InternalName": "Tingyun",
-    "DisplayName": "停云"
+    "DisplayName": "停雲"
   },
   {
     "InternalName": "Topaz",
-    "DisplayName": "托帕&账账"
+    "DisplayName": "トパーズ&カブ"
   },
   {
     "InternalName": "Welt",
-    "DisplayName": "瓦尔特"
+    "DisplayName": "ヴェルト"
   },
   {
     "InternalName": "Yanqing",
@@ -159,31 +159,31 @@
   },
   {
     "InternalName": "Yukong",
-    "DisplayName": "驭空"
+    "DisplayName": "御空"
   },
   {
     "InternalName": "Argenti",
-    "DisplayName": "银枝"
+    "DisplayName": "アルジェンティ"
   },
   {
     "InternalName": "DrRatio",
-    "DisplayName": "真理医生"
+    "DisplayName": "Dr.レイシオ"
   },
   {
     "InternalName": "Hanya",
-    "DisplayName": "寒鸦"
+    "DisplayName": "寒鴉"
   },
   {
     "InternalName": "Huohuo",
-    "DisplayName": "藿藿"
+    "DisplayName": "フォフォ"
   },
   {
     "InternalName": "RuanMei",
-    "DisplayName": "阮•梅",
+    "DisplayName": "ルアン・メェイ",
     "InGameSkins": [
       {
         "InternalName": "RuanMeiPlumblossomLetter",
-        "DisplayName": "折梅寄情"
+        "DisplayName": "梅の便り"
       }
     ]
   },
@@ -193,7 +193,7 @@
   },
   {
     "InternalName": "BlackSwan",
-    "DisplayName": "黑天鹅"
+    "DisplayName": "ブラックスワン"
   },
   {
     "InternalName": "Sparkle",
@@ -201,7 +201,7 @@
   },
   {
     "InternalName": "Misha",
-    "DisplayName": "米沙"
+    "DisplayName": "ミーシャ"
   },
   {
     "InternalName": "Acheron",
@@ -209,37 +209,37 @@
   },
   {
     "InternalName": "Aventurine",
-    "DisplayName": "砂金"
+    "DisplayName": "アベンチュリン"
   },
   {
     "InternalName": "Gallagher",
-    "DisplayName": "加拉赫"
+    "DisplayName": "ギャラガー"
   },
   {
     "InternalName": "Robin",
-    "DisplayName": "知更鸟"
+    "DisplayName": "ロビン"
   },
   {
     "InternalName": "Boothill",
-    "DisplayName": "波提欧"
+    "DisplayName": "ブートヒル"
   },
   {
     "InternalName": "Firefly",
-    "DisplayName": "流萤",
+    "DisplayName": "ホタル",
     "InGameSkins": [
       {
         "InternalName": "FireflySpringMissive",
-        "DisplayName": "春笺寄意"
+        "DisplayName": "春の便り"
       }
     ]
   },
   {
     "InternalName": "Jade",
-    "DisplayName": "翡翠"
+    "DisplayName": "ジェイド"
   },
   {
     "InternalName": "Yunli",
-    "DisplayName": "云璃"
+    "DisplayName": "雲璃"
   },
   {
     "InternalName": "Jiaoqiu",
@@ -247,15 +247,15 @@
   },
   {
     "InternalName": "Feixiao",
-    "DisplayName": "飞霄"
+    "DisplayName": "飛霄"
   },
   {
     "InternalName": "Lingsha",
-    "DisplayName": "灵砂"
+    "DisplayName": "霊砂"
   },
   {
     "InternalName": "Moze",
-    "DisplayName": "貊泽"
+    "DisplayName": "モゼ"
   },
   {
     "InternalName": "Rappa",
@@ -263,81 +263,81 @@
   },
   {
     "InternalName": "Fugue",
-    "DisplayName": "忘归人"
+    "DisplayName": "帰忘の流離人"
   },
   {
     "InternalName": "Sunday",
-    "DisplayName": "星期日"
+    "DisplayName": "サンデー"
   },
   {
     "InternalName": "The Herta",
-    "DisplayName": "大黑塔"
+    "DisplayName": "マダム・ヘルタ"
   },
   {
     "InternalName": "Aglaea",
-    "DisplayName": "阿格莱雅"
+    "DisplayName": "アグライア"
   },
   {
     "InternalName": "Tribbie",
-    "DisplayName": "缇宝"
+    "DisplayName": "トリビー"
   },
   {
     "InternalName": "Mydei",
-    "DisplayName": "万敌"
+    "DisplayName": "モーディス"
   },
   {
     "InternalName": "Castorice",
-    "DisplayName": "遐蝶",
+    "DisplayName": "キャストリス",
     "InGameSkins": [
       {
         "InternalName": "CastoriceGossamerFlutter",
-        "DisplayName": "轻羽拂尘"
+        "DisplayName": "薄羽の舞"
       }
     ]
   },
   {
     "InternalName": "Anaxa",
-    "DisplayName": "那刻夏"
+    "DisplayName": "アナイクス"
   },
   {
     "InternalName": "Hyacine",
-    "DisplayName": "风堇"
+    "DisplayName": "ヒアンシー"
   },
   {
     "InternalName": "Cipher",
-    "DisplayName": "赛飞儿"
+    "DisplayName": "サフェル"
   },
   {
     "InternalName": "Phainon",
-    "DisplayName": "白厄"
+    "DisplayName": "ファイノン"
   },
   {
     "InternalName": "Saber",
-    "DisplayName": "Saber"
+    "DisplayName": "セイバー"
   },
   {
     "InternalName": "Archer",
-    "DisplayName": "Archer"
+    "DisplayName": "アーチャー"
   },
   {
     "InternalName": "Cerydra",
-    "DisplayName": "刻律德菈"
+    "DisplayName": "ケリュドラ"
   },
   {
     "InternalName": "Hysilens",
-    "DisplayName": "海瑟音"
+    "DisplayName": "セイレンス"
   },
   {
     "InternalName": "Evernight",
-    "DisplayName": "长夜月"
+    "DisplayName": "長夜月"
   },
   {
     "InternalName": "Cyrene",
-    "DisplayName": "昔涟"
+    "DisplayName": "キュレネ"
   },
   {
     "InternalName": "Dahlia",
-    "DisplayName": "大丽花"
+    "DisplayName": "ダリア"
   },
   {
     "InternalName": "Sparxie",
@@ -345,7 +345,7 @@
     "InGameSkins": [
       {
         "InternalName": "SparxieCandyCoatedWaves",
-        "DisplayName": "糖彩微澜"
+        "DisplayName": "キャンディウェーブ"
       }
     ]
   },
@@ -359,34 +359,34 @@
   },
   {
     "InternalName": "Evanescia",
-    "DisplayName": "绯英"
+    "DisplayName": "緋英"
   },
   {
     "InternalName": "SilverWolf999",
-    "DisplayName": "银狼LV.999"
+    "DisplayName": "銀狼LV.999"
   },
   {
     "InternalName": "MortenaxBlade",
-    "DisplayName": "千冶•刃"
+    "DisplayName": "千冶・刃"
   },
   {
     "InternalName": "HimekoNova",
-    "DisplayName": "姬子•启行"
+    "DisplayName": "姫子・旅立ち"
   },
   {
     "InternalName": "Gilgamesh",
-    "DisplayName": "吉尔伽美什"
+    "DisplayName": "ギルガメッシュ"
   },
   {
     "InternalName": "RinTohsaka",
-    "DisplayName": "远坂凛"
+    "DisplayName": "遠坂凛"
   },
   {
     "InternalName": "RobinSummeretto",
-    "DisplayName": "知更鸟•晴歌"
+    "DisplayName": "ロビン・夏空の歌"
   },
   {
     "InternalName": "AventurineWaveflair",
-    "DisplayName": "砂金•戏浪"
+    "DisplayName": "アベンチュリン・波と戯れる夏"
   }
 ]

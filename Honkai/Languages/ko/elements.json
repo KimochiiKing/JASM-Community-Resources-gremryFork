@@ -5,30 +5,30 @@
   },
   {
     "InternalName": "Imaginary",
-    "DisplayName": "虚数"
+    "DisplayName": "허수"
   },
   {
     "InternalName": "Quantum",
-    "DisplayName": "量子"
+    "DisplayName": "양자"
   },
   {
     "InternalName": "Wind",
-    "DisplayName": "风"
+    "DisplayName": "바람"
   },
   {
     "InternalName": "Lightning",
-    "DisplayName": "雷"
+    "DisplayName": "번개"
   },
   {
     "InternalName": "Ice",
-    "DisplayName": "冰"
+    "DisplayName": "얼음"
   },
   {
     "InternalName": "Fire",
-    "DisplayName": "火"
+    "DisplayName": "화염"
   },
   {
     "InternalName": "Physical",
-    "DisplayName": "物理"
+    "DisplayName": "물리"
   }
 ]

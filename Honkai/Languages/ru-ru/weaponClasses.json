@@ -1,42 +1,42 @@
 [
   {
     "InternalName": "Adaptive",
-    "DisplayName": "自适应"
+    "DisplayName": "Адаптивный"
   },
   {
     "InternalName": "Abundance",
-    "DisplayName": "丰饶"
+    "DisplayName": "Изобилие"
   },
   {
     "InternalName": "Destruction",
-    "DisplayName": "毁灭"
+    "DisplayName": "Разрушение"
   },
   {
     "InternalName": "Erudition",
-    "DisplayName": "智识"
+    "DisplayName": "Эрудиция"
   },
   {
     "InternalName": "Harmony",
-    "DisplayName": "同谐"
+    "DisplayName": "Гармония"
   },
   {
     "InternalName": "Hunt",
-    "DisplayName": "巡猎"
+    "DisplayName": "Охота"
   },
   {
     "InternalName": "Nihility",
-    "DisplayName": "虚无"
+    "DisplayName": "Небытие"
   },
   {
     "InternalName": "Preservation",
-    "DisplayName": "存护"
+    "DisplayName": "Сохранение"
   },
   {
     "InternalName": "Remembrance",
-    "DisplayName": "记忆"
+    "DisplayName": "Память"
   },
   {
     "InternalName": "Elation",
-    "DisplayName": "欢愉"
+    "DisplayName": "Радость"
   }
 ]

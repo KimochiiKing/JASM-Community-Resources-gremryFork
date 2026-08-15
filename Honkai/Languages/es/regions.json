@@ -1,15 +1,15 @@
 [
   {
     "InternalName": "Astral Express",
-    "DisplayName": "星穹列车"
+    "DisplayName": "Expreso Astral"
   },
   {
     "InternalName": "IPC",
-    "DisplayName": "星际和平公司"
+    "DisplayName": "Corporación de la Paz Interastral"
   },
   {
     "InternalName": "Herta Space Station",
-    "DisplayName": "黑塔空间站"
+    "DisplayName": "Estación Espacial Herta"
   },
   {
     "InternalName": "Jarilo VI",
@@ -17,7 +17,7 @@
   },
   {
     "InternalName": "The Xianzhou Luofu",
-    "DisplayName": "仙舟「罗浮」"
+    "DisplayName": "El Luofu de Xianzhou"
   },
   {
     "InternalName": "The Xianzhou Yaoqing",
@@ -29,7 +29,7 @@
   },
   {
     "InternalName": "Penacony",
-    "DisplayName": "匹诺康尼"
+    "DisplayName": "Colonipenal"
   },
   {
     "InternalName": "Pteruges-V",
@@ -41,11 +41,11 @@
   },
   {
     "InternalName": "Cosmic",
-    "DisplayName": "宇宙"
+    "DisplayName": "Cosmos"
   },
   {
     "InternalName": "Amphoreus",
-    "DisplayName": "翁法罗斯"
+    "DisplayName": "Anfóreus"
   },
   {
     "InternalName": "Annihilation",
@@ -57,6 +57,6 @@
   },
   {
     "InternalName": "Another World",
-    "DisplayName": "异世界"
+    "DisplayName": "Otro Mundo"
   }
 ]
