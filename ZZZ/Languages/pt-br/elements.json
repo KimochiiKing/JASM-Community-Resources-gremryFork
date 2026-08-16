@@ -1,23 +1,23 @@
 [
   {
     "InternalName": "Fire",
-    "DisplayName": "火"
+    "DisplayName": "Fogo"
   },
   {
     "InternalName": "Electric",
-    "DisplayName": "电"
+    "DisplayName": "Elétrico"
   },
   {
     "InternalName": "Ice",
-    "DisplayName": "冰"
+    "DisplayName": "Gelo"
   },
   {
     "InternalName": "Physical",
-    "DisplayName": "物理"
+    "DisplayName": "Físico"
   },
   {
     "InternalName": "Ether",
-    "DisplayName": "以太"
+    "DisplayName": "Éter"
   },
   {
     "InternalName": "Wind",

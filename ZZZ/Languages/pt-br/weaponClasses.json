@@ -1,30 +1,30 @@
 [
   {
     "InternalName": "Anomaly",
-    "DisplayName": "Аномалия"
+    "DisplayName": "Anomalia"
   },
   {
     "InternalName": "Attack",
-    "DisplayName": "Нападение"
+    "DisplayName": "Ataque"
   },
   {
     "InternalName": "Defense",
-    "DisplayName": "Оборона"
+    "DisplayName": "Defesa"
   },
   {
     "InternalName": "Stun",
-    "DisplayName": "Устрашение"
+    "DisplayName": "Atordoamento"
   },
   {
     "InternalName": "Support",
-    "DisplayName": "Поддержка"
+    "DisplayName": "Suporte"
   },
   {
     "InternalName": "Rupture",
-    "DisplayName": "Разрыв"
+    "DisplayName": "Ruptura"
   },
   {
     "InternalName": "Armorer",
-    "DisplayName": "Броня"
+    "DisplayName": "Armadura"
   }
 ]

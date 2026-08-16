@@ -1,30 +1,30 @@
 [
   {
     "InternalName": "Anomaly",
-    "DisplayName": "Аномалия"
+    "DisplayName": "이상"
   },
   {
     "InternalName": "Attack",
-    "DisplayName": "Нападение"
+    "DisplayName": "강공"
   },
   {
     "InternalName": "Defense",
-    "DisplayName": "Оборона"
+    "DisplayName": "방어"
   },
   {
     "InternalName": "Stun",
-    "DisplayName": "Устрашение"
+    "DisplayName": "격파"
   },
   {
     "InternalName": "Support",
-    "DisplayName": "Поддержка"
+    "DisplayName": "지원"
   },
   {
     "InternalName": "Rupture",
-    "DisplayName": "Разрыв"
+    "DisplayName": "파격"
   },
   {
     "InternalName": "Armorer",
-    "DisplayName": "Броня"
+    "DisplayName": "축방"
   }
 ]

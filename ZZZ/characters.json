@@ -1193,7 +1193,14 @@
       "APD"
     ],
     "ModFilesName": "Sigrid",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "SigridMajesticWavechaser",
+        "Image": "SigridMajesticWavechaser.png",
+        "InternalName": "MajesticWavechaser",
+        "DisplayName": "Sigrid Majestic Wavechaser"
+      }
+    ],
     "InternalName": "Sigrid",
     "DisplayName": "Sigrid"
   },

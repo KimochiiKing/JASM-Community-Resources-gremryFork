@@ -1,377 +1,377 @@
 [
   {
     "InternalName": "Others",
-    "DisplayName": "Персонажи"
+    "DisplayName": "캐릭터"
   },
   {
     "InternalName": "Weapons",
-    "DisplayName": "Оружие"
+    "DisplayName": "무기"
   },
   {
     "InternalName": "Belle",
-    "DisplayName": "Белль",
+    "DisplayName": "벨",
     "InGameSkins": [
       {
         "InternalName": "BelleDelicateSunlight",
-        "DisplayName": "Нежный солнечный свет"
+        "DisplayName": "부드러운 햇살"
       },
       {
         "InternalName": "BelleSummerSkies",
-        "DisplayName": "Летние небеса"
+        "DisplayName": "여름날의 하늘"
       },
       {
         "InternalName": "BelleBrillianceOfStars",
-        "DisplayName": "Сияние звёзд"
+        "DisplayName": "별들의 찬란함"
       }
     ]
   },
   {
     "InternalName": "Wise",
-    "DisplayName": "Вайз",
+    "DisplayName": "와이즈",
     "InGameSkins": [
       {
         "InternalName": "WiseSoaringCrane",
-        "DisplayName": "Парящий журавль"
+        "DisplayName": "비상하는 학"
       },
       {
         "InternalName": "WisePeacefulWaves",
-        "DisplayName": "Спокойные волны"
+        "DisplayName": "잔잔한 물결"
       },
       {
         "InternalName": "WiseOathOfSkies",
-        "DisplayName": "Клятва небес"
+        "DisplayName": "창공의 맹세"
       }
     ]
   },
   {
     "InternalName": "Rina",
-    "DisplayName": "Рина"
+    "DisplayName": "리나"
   },
   {
     "InternalName": "Ellen",
-    "DisplayName": "Эллен",
+    "DisplayName": "엘렌",
     "InGameSkins": [
       {
         "InternalName": "Ellen On Campus",
-        "DisplayName": "В кампусе"
+        "DisplayName": "캠퍼스 라이프"
       }
     ]
   },
   {
     "InternalName": "Grace",
-    "DisplayName": "Грейс"
+    "DisplayName": "그레이스"
   },
   {
     "InternalName": "Koleda",
-    "DisplayName": "Коляда"
+    "DisplayName": "콜레다"
   },
   {
     "InternalName": "Nekomata",
-    "DisplayName": "Нэкомата"
+    "DisplayName": "네코마타"
   },
   {
     "InternalName": "Soldier11",
-    "DisplayName": "Солдат 11"
+    "DisplayName": "「11호」"
   },
   {
     "InternalName": "Lycaon",
-    "DisplayName": "Ликаон"
+    "DisplayName": "리카온"
   },
   {
     "InternalName": "ZhuYuan",
-    "DisplayName": "Чжу Юань"
+    "DisplayName": "주연"
   },
   {
     "InternalName": "Anby",
-    "DisplayName": "Энби"
+    "DisplayName": "엔비"
   },
   {
     "InternalName": "Anton",
-    "DisplayName": "Антон"
+    "DisplayName": "앤톤"
   },
   {
     "InternalName": "Ben",
-    "DisplayName": "Бен"
+    "DisplayName": "벤"
   },
   {
     "InternalName": "Billy",
-    "DisplayName": "Билли"
+    "DisplayName": "빌리"
   },
   {
     "InternalName": "Corin",
-    "DisplayName": "Корин"
+    "DisplayName": "코린"
   },
   {
     "InternalName": "Lucy",
-    "DisplayName": "Люси",
+    "DisplayName": "루시",
     "InGameSkins": [
       {
         "InternalName": "Princess on Holiday",
-        "DisplayName": "Принцесса на каникулах"
+        "DisplayName": "휴일의 공주님"
       }
     ]
   },
   {
     "InternalName": "Nicole",
-    "DisplayName": "Николь",
+    "DisplayName": "니콜",
     "InGameSkins": [
       {
         "InternalName": "Nicole Cunning Cutie",
-        "DisplayName": "Хитрая милашка"
+        "DisplayName": "교활한 큐티"
       }
     ]
   },
   {
     "InternalName": "Piper",
-    "DisplayName": "Пайпер"
+    "DisplayName": "파이퍼"
   },
   {
     "InternalName": "Soukaku",
-    "DisplayName": "Сокаку"
+    "DisplayName": "소우카쿠"
   },
   {
     "InternalName": "Miyabi",
-    "DisplayName": "Мияби"
+    "DisplayName": "미야비"
   },
   {
     "InternalName": "Jane",
-    "DisplayName": "Джейн",
+    "DisplayName": "제인",
     "InGameSkins": [
       {
         "InternalName": "Jane Doe Nocturne of Light",
-        "DisplayName": "Ноктюрн света"
+        "DisplayName": "빛의 야상곡"
       }
     ]
   },
   {
     "InternalName": "Qingyi",
-    "DisplayName": "Цинъи"
+    "DisplayName": "청의"
   },
   {
     "InternalName": "Seth",
-    "DisplayName": "Сет"
+    "DisplayName": "세스"
   },
   {
     "InternalName": "Caesar",
-    "DisplayName": "Цезарь"
+    "DisplayName": "카이사르"
   },
   {
     "InternalName": "Burnice",
-    "DisplayName": "Бёрнис"
+    "DisplayName": "버니스"
   },
   {
     "InternalName": "Yanagi",
-    "DisplayName": "Янаги"
+    "DisplayName": "야나기"
   },
   {
     "InternalName": "Harumasa",
-    "DisplayName": "Харумаса"
+    "DisplayName": "하루마사"
   },
   {
     "InternalName": "Astra",
-    "DisplayName": "Астра Яо",
+    "DisplayName": "아스트라",
     "InGameSkins": [
       {
         "InternalName": "Astra Chandelier",
-        "DisplayName": "Хрустальная люстра"
+        "DisplayName": "샹들리에"
       }
     ]
   },
   {
     "InternalName": "Evelyn",
-    "DisplayName": "Эвелин"
+    "DisplayName": "이블린"
   },
   {
     "InternalName": "Lighter",
-    "DisplayName": "Лайтер"
+    "DisplayName": "라이터"
   },
   {
     "InternalName": "Pulchra",
-    "DisplayName": "Пульхра"
+    "DisplayName": "펄크라"
   },
   {
     "InternalName": "Silver Soldier - Anby",
-    "DisplayName": "Солдат 0 Энби"
+    "DisplayName": "0호·엔비"
   },
   {
     "InternalName": "Trigger",
-    "DisplayName": "Гашетка"
+    "DisplayName": "「트리거」"
   },
   {
     "InternalName": "Vivian",
-    "DisplayName": "Вивиан",
+    "DisplayName": "비비안",
     "InGameSkins": [
       {
         "InternalName": "IrisOfTheShore",
-        "DisplayName": "Ирис побережья"
+        "DisplayName": "해변의 아이리스"
       }
     ]
   },
   {
     "InternalName": "Hugo",
-    "DisplayName": "Хуго"
+    "DisplayName": "휴고"
   },
   {
     "InternalName": "Yixuan",
-    "DisplayName": "Исюань",
+    "DisplayName": "의현",
     "InGameSkins": [
       {
         "InternalName": "YixuanTrailsofInk",
-        "DisplayName": "Следы туши"
+        "DisplayName": "먹물의 흔적"
       }
     ]
   },
   {
     "InternalName": "Panyinhu",
-    "DisplayName": "Пань Иньху"
+    "DisplayName": "반인호"
   },
   {
     "InternalName": "Jufufu",
-    "DisplayName": "Цзюй Фуфу"
+    "DisplayName": "귤복복"
   },
   {
     "InternalName": "Yuzuha",
-    "DisplayName": "Юдзуха",
+    "DisplayName": "유즈하",
     "InGameSkins": [
       {
         "InternalName": "YuzuhaTanukiInBroadDaylight",
-        "DisplayName": "Тануки средь бела дня"
+        "DisplayName": "대낮의 너구리"
       }
     ]
   },
   {
     "InternalName": "Alice",
-    "DisplayName": "Элис",
+    "DisplayName": "앨리스",
     "InGameSkins": [
       {
         "InternalName": "AliceSeaOfThyme",
-        "DisplayName": "Море тимьяна"
+        "DisplayName": "백리향의 바다"
       }
     ]
   },
   {
     "InternalName": "Orphie",
-    "DisplayName": "Орфея и Магус"
+    "DisplayName": "오피&「도깨비불」"
   },
   {
     "InternalName": "Seed",
-    "DisplayName": "Сид"
+    "DisplayName": "「시드」"
   },
   {
     "InternalName": "Manato",
-    "DisplayName": "Манато",
+    "DisplayName": "마나토",
     "InGameSkins": [
       {
         "InternalName": "WhiteHeartSilhouette",
-        "DisplayName": "Белый силуэт"
+        "DisplayName": "순백의 실루엣"
       }
     ]
   },
   {
     "InternalName": "Lucia",
-    "DisplayName": "Люсия"
+    "DisplayName": "루시아"
   },
   {
     "InternalName": "Yidhari",
-    "DisplayName": "Йидхари"
+    "DisplayName": "이드하리"
   },
   {
     "InternalName": "Dialyn",
-    "DisplayName": "Диалинь"
+    "DisplayName": "다이아린"
   },
   {
     "InternalName": "Banyue",
-    "DisplayName": "Баньюэ"
+    "DisplayName": "반악"
   },
   {
     "InternalName": "YeShunguang",
-    "DisplayName": "Е Шуньгуан",
+    "DisplayName": "엽빛나",
     "InGameSkins": [
       {
         "InternalName": "Ye Shunguang Touch of Dawnlight",
-        "DisplayName": "Прикосновение рассвета"
+        "DisplayName": "새벽빛의 손길"
       }
     ]
   },
   {
     "InternalName": "Zhao",
-    "DisplayName": "Чжао"
+    "DisplayName": "자오"
   },
   {
     "InternalName": "Sunna",
-    "DisplayName": "Санна",
+    "DisplayName": "수나",
     "InGameSkins": [
       {
         "InternalName": "Sunna Afternoon Tea Break",
-        "DisplayName": "Послеполуденный чай"
+        "DisplayName": "오후의 티타임"
       }
     ]
   },
   {
     "InternalName": "Aria",
-    "DisplayName": "Ария",
+    "DisplayName": "아리아",
     "InGameSkins": [
       {
         "InternalName": "Aria Discordant Note",
-        "DisplayName": "Диссонирующая нота"
+        "DisplayName": "불협화음"
       }
     ]
   },
   {
     "InternalName": "NangongYu",
-    "DisplayName": "Наньгун Юй",
+    "DisplayName": "남궁우",
     "InGameSkins": [
       {
         "InternalName": "RhapsodysMuse",
-        "DisplayName": "Муза рапсодии"
+        "DisplayName": "광시곡의 뮤즈"
       }
     ]
   },
   {
     "InternalName": "Cissia",
-    "DisplayName": "Циссия"
+    "DisplayName": "시시아"
   },
   {
     "InternalName": "StarlightBilly",
-    "DisplayName": "Звёздный Билли"
+    "DisplayName": "스타라이트·빌리"
   },
   {
     "InternalName": "Promeia",
-    "DisplayName": "Промея"
+    "DisplayName": "프로미아"
   },
   {
     "InternalName": "Pyrois",
-    "DisplayName": "Пироис"
+    "DisplayName": "피로이스"
   },
   {
     "InternalName": "Norma",
-    "DisplayName": "Норма"
+    "DisplayName": "노르마"
   },
   {
     "InternalName": "Velina",
-    "DisplayName": "Велина"
+    "DisplayName": "벨리나"
   },
   {
     "InternalName": "Remielle",
-    "DisplayName": "Ремиэлла",
+    "DisplayName": "레미엘",
     "InGameSkins": [
       {
         "InternalName": "MoonlightWhispers",
-        "DisplayName": "Шёпот лунного света"
+        "DisplayName": "달빛의 속삭임"
       },
       {
         "InternalName": "SeashadePasSeul",
-        "DisplayName": "Танец морской тени"
+        "DisplayName": "바다 그림자의 독무"
       }
     ]
   },
   {
     "InternalName": "Sigrid",
-    "DisplayName": "Сигрид",
+    "DisplayName": "시그리드",
     "InGameSkins": [
       {
         "InternalName": "MajesticWavechaser",
-        "DisplayName": "Величественный ловец волн"
+        "DisplayName": "위풍당당한 파도잡이"
       }
     ]
   },
