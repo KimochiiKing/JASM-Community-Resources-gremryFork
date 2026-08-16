@@ -732,10 +732,6 @@
     "DisplayName": "Лазурное сияние"
   },
   {
-    "InternalName": "Prized Isshin Blade",
-    "DisplayName": "Легендарный клинок Иссин"
-  },
-  {
     "InternalName": "Sturdy Bone",
     "DisplayName": "Крепкая кость"
   },
@@ -762,10 +758,6 @@
   {
     "InternalName": "Emberwell",
     "DisplayName": "Источник пламени"
-  },
-  {
-    "InternalName": "One Side",
-    "DisplayName": "Одна Сторона"
   },
   {
     "InternalName": "Peak Patrol Song",
@@ -816,14 +808,6 @@
     "DisplayName": "Клинок искупления"
   },
   {
-    "InternalName": "Primordial Jade Greatsword",
-    "DisplayName": "Древний Нефритовый Двуручный Меч"
-  },
-  {
-    "InternalName": "The Other Side",
-    "DisplayName": "Другая Сторона"
-  },
-  {
     "InternalName": "Fang of the Mountain King",
     "DisplayName": "Клык Горного короля"
   },
@@ -870,10 +854,6 @@
   {
     "InternalName": "Song of the Vigil",
     "DisplayName": "Песнь бдения"
-  },
-  {
-    "InternalName": "Deicide",
-    "DisplayName": "Богоубийство"
   },
   {
     "InternalName": "Lumidouce Elegy",
@@ -926,10 +906,6 @@
   {
     "InternalName": "Echoes of the Heart",
     "DisplayName": "Отголоски сердца"
-  },
-  {
-    "InternalName": "Lost Ballade",
-    "DisplayName": "Утерянная Баллада"
   },
   {
     "InternalName": "Surf's Up",
@@ -998,18 +974,6 @@
   {
     "InternalName": "Covenant of Frost and Snow",
     "DisplayName": "Завет льда и снега"
-  },
-  {
-    "InternalName": "Kunwu's Wyrmbane",
-    "DisplayName": "Убийца Драконов Кунву"
-  },
-  {
-    "InternalName": "Primordial Jade Vista",
-    "DisplayName": "Древняя Нефритовая Виста"
-  },
-  {
-    "InternalName": "Mirror Breaker",
-    "DisplayName": "Разбитое зеркало"
   },
   {
     "InternalName": "Astral Vulture's Crimson Plumage",

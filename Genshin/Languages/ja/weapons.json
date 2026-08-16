@@ -732,10 +732,6 @@
     "DisplayName": "蒼耀"
   },
   {
-    "InternalName": "Prized Isshin Blade",
-    "DisplayName": "「一心伝」名刀"
-  },
-  {
     "InternalName": "Sturdy Bone",
     "DisplayName": "ストロング・ボーン"
   },
@@ -762,10 +758,6 @@
   {
     "InternalName": "Emberwell",
     "DisplayName": "導炎の源"
-  },
-  {
-    "InternalName": "One Side",
-    "DisplayName": "虚構"
   },
   {
     "InternalName": "Peak Patrol Song",
@@ -816,14 +808,6 @@
     "DisplayName": "救済の剣"
   },
   {
-    "InternalName": "Primordial Jade Greatsword",
-    "DisplayName": "美玉魚"
-  },
-  {
-    "InternalName": "The Other Side",
-    "DisplayName": "異史"
-  },
-  {
     "InternalName": "Fang of the Mountain King",
     "DisplayName": "山の王の長牙"
   },
@@ -870,10 +854,6 @@
   {
     "InternalName": "Song of the Vigil",
     "DisplayName": "遠望の歌"
-  },
-  {
-    "InternalName": "Deicide",
-    "DisplayName": "レジサイド"
   },
   {
     "InternalName": "Lumidouce Elegy",
@@ -926,10 +906,6 @@
   {
     "InternalName": "Echoes of the Heart",
     "DisplayName": "胸中の谺"
-  },
-  {
-    "InternalName": "Lost Ballade",
-    "DisplayName": "散逸した叙事詩"
   },
   {
     "InternalName": "Surf's Up",
@@ -998,18 +974,6 @@
   {
     "InternalName": "Covenant of Frost and Snow",
     "DisplayName": "霜雪の契"
-  },
-  {
-    "InternalName": "Kunwu's Wyrmbane",
-    "DisplayName": "昆吾の堕龍"
-  },
-  {
-    "InternalName": "Primordial Jade Vista",
-    "DisplayName": "高価なオーブ"
-  },
-  {
-    "InternalName": "Mirror Breaker",
-    "DisplayName": "壊れた鏡"
   },
   {
     "InternalName": "Astral Vulture's Crimson Plumage",

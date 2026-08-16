@@ -1651,15 +1651,6 @@
     "Type": "Sword",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": null,
-    "InternalName": "Prized Isshin Blade",
-    "DisplayName": "Prized Isshin Blade"
-  },
-  {
-    "Rarity": 4,
-    "Type": "Sword",
-    "ModFilesName": "",
-    "IsMultiMod": false,
     "Image": "Sturdy_Bone.png",
     "InternalName": "Sturdy Bone",
     "DisplayName": "Sturdy Bone"
@@ -1717,15 +1708,6 @@
     "Image": "Emberwell.png",
     "InternalName": "Emberwell",
     "DisplayName": "Emberwell"
-  },
-  {
-    "Rarity": 5,
-    "Type": "Sword",
-    "ModFilesName": "",
-    "IsMultiMod": false,
-    "Image": null,
-    "InternalName": "One Side",
-    "DisplayName": "One Side"
   },
   {
     "Rarity": 5,
@@ -1840,24 +1822,6 @@
     "Type": "Claymore",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": null,
-    "InternalName": "Primordial Jade Greatsword",
-    "DisplayName": "Primordial Jade Greatsword"
-  },
-  {
-    "Rarity": 5,
-    "Type": "Claymore",
-    "ModFilesName": "",
-    "IsMultiMod": false,
-    "Image": null,
-    "InternalName": "The Other Side",
-    "DisplayName": "The Other Side"
-  },
-  {
-    "Rarity": 5,
-    "Type": "Claymore",
-    "ModFilesName": "",
-    "IsMultiMod": false,
     "Image": "Fang_of_the_Mountain_King.png",
     "InternalName": "Fang of the Mountain King",
     "DisplayName": "Fang of the Mountain King"
@@ -1960,15 +1924,6 @@
     "Image": "Song_of_the_Vigil.png",
     "InternalName": "Song of the Vigil",
     "DisplayName": "Song of the Vigil"
-  },
-  {
-    "Rarity": 5,
-    "Type": "Polearm",
-    "ModFilesName": "",
-    "IsMultiMod": false,
-    "Image": null,
-    "InternalName": "Deicide",
-    "DisplayName": "Deicide"
   },
   {
     "Rarity": 5,
@@ -2086,15 +2041,6 @@
     "Image": "Echoes_of_the_Heart.png",
     "InternalName": "Echoes of the Heart",
     "DisplayName": "Echoes of the Heart"
-  },
-  {
-    "Rarity": 5,
-    "Type": "Catalyst",
-    "ModFilesName": "",
-    "IsMultiMod": false,
-    "Image": null,
-    "InternalName": "Lost Ballade",
-    "DisplayName": "Lost Ballade"
   },
   {
     "Rarity": 5,
@@ -2248,33 +2194,6 @@
     "Image": "Covenant_of_Frost_and_Snow.png",
     "InternalName": "Covenant of Frost and Snow",
     "DisplayName": "Covenant of Frost and Snow"
-  },
-  {
-    "Rarity": 5,
-    "Type": "Bow",
-    "ModFilesName": "",
-    "IsMultiMod": false,
-    "Image": null,
-    "InternalName": "Kunwu's Wyrmbane",
-    "DisplayName": "Kunwu's Wyrmbane"
-  },
-  {
-    "Rarity": 5,
-    "Type": "Bow",
-    "ModFilesName": "",
-    "IsMultiMod": false,
-    "Image": null,
-    "InternalName": "Primordial Jade Vista",
-    "DisplayName": "Primordial Jade Vista"
-  },
-  {
-    "Rarity": 5,
-    "Type": "Bow",
-    "ModFilesName": "",
-    "IsMultiMod": false,
-    "Image": null,
-    "InternalName": "Mirror Breaker",
-    "DisplayName": "Mirror Breaker"
   },
   {
     "Rarity": 5,

@@ -732,10 +732,6 @@
     "DisplayName": "창백한 섬광"
   },
   {
-    "InternalName": "Prized Isshin Blade",
-    "DisplayName": "「잇신의 기술」 명검"
-  },
-  {
     "InternalName": "Sturdy Bone",
     "DisplayName": "견고한 골검"
   },
@@ -762,10 +758,6 @@
   {
     "InternalName": "Emberwell",
     "DisplayName": "불꽃의 인도자"
-  },
-  {
-    "InternalName": "One Side",
-    "DisplayName": "공허한 운명"
   },
   {
     "InternalName": "Peak Patrol Song",
@@ -816,14 +808,6 @@
     "DisplayName": "구원의 대검"
   },
   {
-    "InternalName": "Primordial Jade Greatsword",
-    "DisplayName": "고래 비녀"
-  },
-  {
-    "InternalName": "The Other Side",
-    "DisplayName": "괴사"
-  },
-  {
     "InternalName": "Fang of the Mountain King",
     "DisplayName": "산왕의 엄니"
   },
@@ -870,10 +854,6 @@
   {
     "InternalName": "Song of the Vigil",
     "DisplayName": "수호의 노래"
-  },
-  {
-    "InternalName": "Deicide",
-    "DisplayName": "주신 학살창"
   },
   {
     "InternalName": "Lumidouce Elegy",
@@ -926,10 +906,6 @@
   {
     "InternalName": "Echoes of the Heart",
     "DisplayName": "충성의 메아리"
-  },
-  {
-    "InternalName": "Lost Ballade",
-    "DisplayName": "산실된 서사시"
   },
   {
     "InternalName": "Surf's Up",
@@ -998,18 +974,6 @@
   {
     "InternalName": "Covenant of Frost and Snow",
     "DisplayName": "서리의 서약"
-  },
-  {
-    "InternalName": "Kunwu's Wyrmbane",
-    "DisplayName": "곤오추룡"
-  },
-  {
-    "InternalName": "Primordial Jade Vista",
-    "DisplayName": "현려천균"
-  },
-  {
-    "InternalName": "Mirror Breaker",
-    "DisplayName": "부서진 거울"
   },
   {
     "InternalName": "Astral Vulture's Crimson Plumage",
