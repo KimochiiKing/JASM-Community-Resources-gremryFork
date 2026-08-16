@@ -1,30 +1,30 @@
 [
   {
     "InternalName": "Pyro",
-    "DisplayName": "Пиро"
+    "DisplayName": "불"
   },
   {
     "InternalName": "Hydro",
-    "DisplayName": "Гидро"
+    "DisplayName": "물"
   },
   {
     "InternalName": "Anemo",
-    "DisplayName": "Анэмо"
+    "DisplayName": "바람"
   },
   {
     "InternalName": "Electro",
-    "DisplayName": "Электро"
+    "DisplayName": "번개"
   },
   {
     "InternalName": "Dendro",
-    "DisplayName": "Дендро"
+    "DisplayName": "풀"
   },
   {
     "InternalName": "Cryo",
-    "DisplayName": "Крио"
+    "DisplayName": "얼음"
   },
   {
     "InternalName": "Geo",
-    "DisplayName": "Гео"
+    "DisplayName": "바위"
   }
 ]

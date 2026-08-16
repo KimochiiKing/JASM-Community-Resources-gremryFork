@@ -1,42 +1,42 @@
 [
   {
     "InternalName": "Mondstadt",
-    "DisplayName": "Мондштадт"
+    "DisplayName": "몬드"
   },
   {
     "InternalName": "Liyue",
-    "DisplayName": "Ли Юэ"
+    "DisplayName": "리월"
   },
   {
     "InternalName": "Inazuma",
-    "DisplayName": "Инадзума"
+    "DisplayName": "이나즈마"
   },
   {
     "InternalName": "Sumeru",
-    "DisplayName": "Сумеру"
+    "DisplayName": "수메르"
   },
   {
     "InternalName": "Fontaine",
-    "DisplayName": "Fontaine"
+    "DisplayName": "폰타인"
   },
   {
     "InternalName": "Khaenri'ah",
-    "DisplayName": "Каэнри'ах"
+    "DisplayName": "켄리아"
   },
   {
     "InternalName": "Natlan",
-    "DisplayName": "Натлан"
+    "DisplayName": "나타"
   },
   {
     "InternalName": "Snezhnaya",
-    "DisplayName": "Снежная"
+    "DisplayName": "스네즈나야"
   },
   {
     "InternalName": "Extraterrestrial",
-    "DisplayName": "Внеземной"
+    "DisplayName": "이세계"
   },
   {
     "InternalName": "Nod-Krai",
-    "DisplayName": "Нод-Край"
+    "DisplayName": "노드크라이"
   }
 ]

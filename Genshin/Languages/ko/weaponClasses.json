@@ -1,22 +1,22 @@
 [
   {
     "InternalName": "Sword",
-    "DisplayName": "单手剑"
+    "DisplayName": "한손검"
   },
   {
     "InternalName": "Bow",
-    "DisplayName": "弓"
+    "DisplayName": "활"
   },
   {
     "InternalName": "Claymore",
-    "DisplayName": "双手剑"
+    "DisplayName": "양손검"
   },
   {
     "InternalName": "Polearm",
-    "DisplayName": "长柄武器"
+    "DisplayName": "장병기"
   },
   {
     "InternalName": "Catalyst",
-    "DisplayName": "法器"
+    "DisplayName": "법구"
   }
 ]

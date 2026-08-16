@@ -1,30 +1,30 @@
 [
   {
     "InternalName": "Pyro",
-    "DisplayName": "Пиро"
+    "DisplayName": "Pyro"
   },
   {
     "InternalName": "Hydro",
-    "DisplayName": "Гидро"
+    "DisplayName": "Hydro"
   },
   {
     "InternalName": "Anemo",
-    "DisplayName": "Анэмо"
+    "DisplayName": "Anemo"
   },
   {
     "InternalName": "Electro",
-    "DisplayName": "Электро"
+    "DisplayName": "Electro"
   },
   {
     "InternalName": "Dendro",
-    "DisplayName": "Дендро"
+    "DisplayName": "Dendro"
   },
   {
     "InternalName": "Cryo",
-    "DisplayName": "Крио"
+    "DisplayName": "Cryo"
   },
   {
     "InternalName": "Geo",
-    "DisplayName": "Гео"
+    "DisplayName": "Geo"
   }
 ]

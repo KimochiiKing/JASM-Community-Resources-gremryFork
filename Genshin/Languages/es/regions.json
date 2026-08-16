@@ -1,19 +1,19 @@
 [
   {
     "InternalName": "Mondstadt",
-    "DisplayName": "Мондштадт"
+    "DisplayName": "Mondstadt"
   },
   {
     "InternalName": "Liyue",
-    "DisplayName": "Ли Юэ"
+    "DisplayName": "Liyue"
   },
   {
     "InternalName": "Inazuma",
-    "DisplayName": "Инадзума"
+    "DisplayName": "Inazuma"
   },
   {
     "InternalName": "Sumeru",
-    "DisplayName": "Сумеру"
+    "DisplayName": "Sumeru"
   },
   {
     "InternalName": "Fontaine",
@@ -21,22 +21,22 @@
   },
   {
     "InternalName": "Khaenri'ah",
-    "DisplayName": "Каэнри'ах"
+    "DisplayName": "Khaenri'ah"
   },
   {
     "InternalName": "Natlan",
-    "DisplayName": "Натлан"
+    "DisplayName": "Natlan"
   },
   {
     "InternalName": "Snezhnaya",
-    "DisplayName": "Снежная"
+    "DisplayName": "Snezhnaya"
   },
   {
     "InternalName": "Extraterrestrial",
-    "DisplayName": "Внеземной"
+    "DisplayName": "Extraterrestre"
   },
   {
     "InternalName": "Nod-Krai",
-    "DisplayName": "Нод-Край"
+    "DisplayName": "Nod-Krai"
   }
 ]

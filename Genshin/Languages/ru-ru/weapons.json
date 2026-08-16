@@ -1,11 +1,11 @@
 [
   {
     "InternalName": "Others_Weapons",
-    "DisplayName": "Другие Оружия"
+    "DisplayName": "Оружия"
   },
   {
     "InternalName": "The Catch",
-    "DisplayName": "Улов"
+    "DisplayName": "The Catch"
   },
   {
     "InternalName": "A Thousand Floating Dreams",
@@ -57,7 +57,7 @@
   },
   {
     "InternalName": "Black Tassel",
-    "DisplayName": "Чёрный меч"
+    "DisplayName": "Чёрная кисть"
   },
   {
     "InternalName": "Blackcliff Agate",
@@ -317,7 +317,7 @@
   },
   {
     "InternalName": "Mailed Flower",
-    "DisplayName": "Двуручный меч Фавония"
+    "DisplayName": "Цветок в латах"
   },
   {
     "InternalName": "Makhaira Aquamarine",
@@ -449,7 +449,7 @@
   },
   {
     "InternalName": "Royal Grimoire",
-    "DisplayName": "Цветок в латах"
+    "DisplayName": "Королевский гримуар"
   },
   {
     "InternalName": "Royal Longsword",
@@ -726,5 +726,9 @@
   {
     "InternalName": "Crane's Echoing Call",
     "DisplayName": "Звонкий клич журавля"
+  },
+  {
+    "InternalName": "AzureLight",
+    "DisplayName": "Лазурное сияние"
   }
 ]
