@@ -730,5 +730,297 @@
   {
     "InternalName": "AzureLight",
     "DisplayName": "창백한 섬광"
+  },
+  {
+    "InternalName": "Prized Isshin Blade",
+    "DisplayName": "「잇신의 기술」 명검"
+  },
+  {
+    "InternalName": "Sturdy Bone",
+    "DisplayName": "견고한 골검"
+  },
+  {
+    "InternalName": "Flute of Ezpitzal",
+    "DisplayName": "에스피찰의 피리"
+  },
+  {
+    "InternalName": "Calamity of Eshu",
+    "DisplayName": "에슈의 재앙"
+  },
+  {
+    "InternalName": "Serenity's Call",
+    "DisplayName": "고요한 휘파람"
+  },
+  {
+    "InternalName": "Moonweaver's Dawn",
+    "DisplayName": "달을 엮는 자의 새벽빛"
+  },
+  {
+    "InternalName": "Heretic's Molten Blade",
+    "DisplayName": "이단을 가르는 불꽃"
+  },
+  {
+    "InternalName": "Emberwell",
+    "DisplayName": "불꽃의 인도자"
+  },
+  {
+    "InternalName": "One Side",
+    "DisplayName": "공허한 운명"
+  },
+  {
+    "InternalName": "Peak Patrol Song",
+    "DisplayName": "바위산을 맴도는 노래"
+  },
+  {
+    "InternalName": "Athame Artis",
+    "DisplayName": "검은 침식"
+  },
+  {
+    "InternalName": "Lightbearing Moonshard",
+    "DisplayName": "신월의 달빛"
+  },
+  {
+    "InternalName": "Whitelake Frostfeather",
+    "DisplayName": "백조의 호수"
+  },
+  {
+    "InternalName": "Exaiphanes Blade",
+    "DisplayName": "별빛검"
+  },
+  {
+    "InternalName": "Ultimate Overlord's Mega Magic Sword",
+    "DisplayName": "\"Ultimate Overlord's Mega Magic Sword\""
+  },
+  {
+    "InternalName": "Fruitful Hook",
+    "DisplayName": "수확의 갈고리"
+  },
+  {
+    "InternalName": "Earth Shaker",
+    "DisplayName": "대지를 울리는 자"
+  },
+  {
+    "InternalName": "Flame-Forged Insight",
+    "DisplayName": "불로 벼린 지혜"
+  },
+  {
+    "InternalName": "Master Key",
+    "DisplayName": "만능 열쇠"
+  },
+  {
+    "InternalName": "Forged by the Golden Melody",
+    "DisplayName": "황금빛 선율"
+  },
+  {
+    "InternalName": "Blade of Atonement",
+    "DisplayName": "구원의 대검"
+  },
+  {
+    "InternalName": "Primordial Jade Greatsword",
+    "DisplayName": "고래 비녀"
+  },
+  {
+    "InternalName": "The Other Side",
+    "DisplayName": "괴사"
+  },
+  {
+    "InternalName": "Fang of the Mountain King",
+    "DisplayName": "산왕의 엄니"
+  },
+  {
+    "InternalName": "A Thousand Blazing Suns",
+    "DisplayName": "타오르는 천 개의 태양"
+  },
+  {
+    "InternalName": "Gest of the Mighty Wolf",
+    "DisplayName": "늑대의 무용담"
+  },
+  {
+    "InternalName": "A Teaspoon of Transcendence",
+    "DisplayName": "초월의 열쇠"
+  },
+  {
+    "InternalName": "Dialogues of the Desert Sages",
+    "DisplayName": "위대한 사막 현자의 대답"
+  },
+  {
+    "InternalName": "Mountain-Bracing Bolt",
+    "DisplayName": "산을 고정하는 못"
+  },
+  {
+    "InternalName": "Footprint of the Rainbow",
+    "DisplayName": "무지개의 행적"
+  },
+  {
+    "InternalName": "Tamayuratei no Ohanashi",
+    "DisplayName": "쉼터의 이야기꾼"
+  },
+  {
+    "InternalName": "Prospector's Shovel",
+    "DisplayName": "채굴의 삽"
+  },
+  {
+    "InternalName": "Sacrificer's Staff",
+    "DisplayName": "신성한 제사의 지팡이"
+  },
+  {
+    "InternalName": "Frostbreath",
+    "DisplayName": "서리 숨결"
+  },
+  {
+    "InternalName": "Song of the Vigil",
+    "DisplayName": "수호의 노래"
+  },
+  {
+    "InternalName": "Deicide",
+    "DisplayName": "주신 학살창"
+  },
+  {
+    "InternalName": "Lumidouce Elegy",
+    "DisplayName": "등방울꽃의 애가"
+  },
+  {
+    "InternalName": "Symphonist of Scents",
+    "DisplayName": "맛의 지휘자"
+  },
+  {
+    "InternalName": "Fractured Halo",
+    "DisplayName": "파멸의 빛고리"
+  },
+  {
+    "InternalName": "Bloodsoaked Ruins",
+    "DisplayName": "피로 물든 성"
+  },
+  {
+    "InternalName": "Disaster and Remorse",
+    "DisplayName": "재앙"
+  },
+  {
+    "InternalName": "Ash-Graven Drinking Horn",
+    "DisplayName": "푸른 문양 뿔잔"
+  },
+  {
+    "InternalName": "Waveriding Whirl",
+    "DisplayName": "돌아오는 파도"
+  },
+  {
+    "InternalName": "Ring of Yaxche",
+    "DisplayName": "약스체의 고리"
+  },
+  {
+    "InternalName": "Etherlight Spindlelute",
+    "DisplayName": "금빛 류트"
+  },
+  {
+    "InternalName": "Blackmarrow Lantern",
+    "DisplayName": "검은 골수의 등불"
+  },
+  {
+    "InternalName": "Dawning Frost",
+    "DisplayName": "서릿빛 새벽"
+  },
+  {
+    "InternalName": "Clash of Kings",
+    "DisplayName": "왕들의 대국"
+  },
+  {
+    "InternalName": "Echoes of the Heart",
+    "DisplayName": "충성의 메아리"
+  },
+  {
+    "InternalName": "Lost Ballade",
+    "DisplayName": "산실된 서사시"
+  },
+  {
+    "InternalName": "Surf's Up",
+    "DisplayName": "서핑 타임"
+  },
+  {
+    "InternalName": "Starcaller's Watch",
+    "DisplayName": "별지기의 시선"
+  },
+  {
+    "InternalName": "Sunny Morning Sleep-In",
+    "DisplayName": "나른한 새해"
+  },
+  {
+    "InternalName": "Vivid Notions",
+    "DisplayName": "빛나는 마음"
+  },
+  {
+    "InternalName": "Nightweaver's Looking Glass",
+    "DisplayName": "밤을 엮는 거울"
+  },
+  {
+    "InternalName": "Reliquary of Truth",
+    "DisplayName": "진실의 함"
+  },
+  {
+    "InternalName": "Nocturne's Curtain Call",
+    "DisplayName": "막간의 야상곡"
+  },
+  {
+    "InternalName": "Angelos' Heptades",
+    "DisplayName": "일곱빛 계시"
+  },
+  {
+    "InternalName": "Ibis Piercer",
+    "DisplayName": "꿰뚫는 따오기 부리"
+  },
+  {
+    "InternalName": "Cloudforged",
+    "DisplayName": "축운"
+  },
+  {
+    "InternalName": "Flower-Wreathed Feathers",
+    "DisplayName": "꽃장식 깃"
+  },
+  {
+    "InternalName": "Chain Breaker",
+    "DisplayName": "사슬 파괴자"
+  },
+  {
+    "InternalName": "Sequence of Solitude",
+    "DisplayName": "침묵의 사격"
+  },
+  {
+    "InternalName": "Snare Hook",
+    "DisplayName": "그물을 뚫는 화살"
+  },
+  {
+    "InternalName": "Rainbow Serpent's Rain Bow",
+    "DisplayName": "무지개뱀의 현"
+  },
+  {
+    "InternalName": "Jade Vista",
+    "DisplayName": "옥빛 장궁"
+  },
+  {
+    "InternalName": "Covenant of Frost and Snow",
+    "DisplayName": "서리의 서약"
+  },
+  {
+    "InternalName": "Kunwu's Wyrmbane",
+    "DisplayName": "곤오추룡"
+  },
+  {
+    "InternalName": "Primordial Jade Vista",
+    "DisplayName": "현려천균"
+  },
+  {
+    "InternalName": "Mirror Breaker",
+    "DisplayName": "부서진 거울"
+  },
+  {
+    "InternalName": "Astral Vulture's Crimson Plumage",
+    "DisplayName": "붉은 깃 별독수리"
+  },
+  {
+    "InternalName": "The Daybreak Chronicles",
+    "DisplayName": "여명이 트는 역사"
+  },
+  {
+    "InternalName": "Golden Frostbound Oath",
+    "DisplayName": "서리 맺힌 금빛 가지"
   }
 ]

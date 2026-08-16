@@ -730,5 +730,297 @@
   {
     "InternalName": "AzureLight",
     "DisplayName": "苍耀"
+  },
+  {
+    "InternalName": "Prized Isshin Blade",
+    "DisplayName": "「一心传」名刀"
+  },
+  {
+    "InternalName": "Sturdy Bone",
+    "DisplayName": "弥坚骨"
+  },
+  {
+    "InternalName": "Flute of Ezpitzal",
+    "DisplayName": "息燧之笛"
+  },
+  {
+    "InternalName": "Calamity of Eshu",
+    "DisplayName": "厄水之祸"
+  },
+  {
+    "InternalName": "Serenity's Call",
+    "DisplayName": "谧音吹哨"
+  },
+  {
+    "InternalName": "Moonweaver's Dawn",
+    "DisplayName": "织月者的曙色"
+  },
+  {
+    "InternalName": "Heretic's Molten Blade",
+    "DisplayName": "熔猎异端之刃"
+  },
+  {
+    "InternalName": "Emberwell",
+    "DisplayName": "引火之源"
+  },
+  {
+    "InternalName": "One Side",
+    "DisplayName": "ID: 11507"
+  },
+  {
+    "InternalName": "Peak Patrol Song",
+    "DisplayName": "岩峰巡歌"
+  },
+  {
+    "InternalName": "Athame Artis",
+    "DisplayName": "黑蚀"
+  },
+  {
+    "InternalName": "Lightbearing Moonshard",
+    "DisplayName": "朏魄含光"
+  },
+  {
+    "InternalName": "Whitelake Frostfeather",
+    "DisplayName": "白湖冬羽"
+  },
+  {
+    "InternalName": "Exaiphanes Blade",
+    "DisplayName": "星锋剑"
+  },
+  {
+    "InternalName": "Ultimate Overlord's Mega Magic Sword",
+    "DisplayName": "\"Ultimate Overlord's Mega Magic Sword\""
+  },
+  {
+    "InternalName": "Fruitful Hook",
+    "DisplayName": "硕果钩"
+  },
+  {
+    "InternalName": "Earth Shaker",
+    "DisplayName": "撼地者"
+  },
+  {
+    "InternalName": "Flame-Forged Insight",
+    "DisplayName": "拾慧铸熔"
+  },
+  {
+    "InternalName": "Master Key",
+    "DisplayName": "万能钥匙"
+  },
+  {
+    "InternalName": "Forged by the Golden Melody",
+    "DisplayName": "金律铸影"
+  },
+  {
+    "InternalName": "Blade of Atonement",
+    "DisplayName": "救赎之斩"
+  },
+  {
+    "InternalName": "Primordial Jade Greatsword",
+    "DisplayName": "ID: 12505"
+  },
+  {
+    "InternalName": "The Other Side",
+    "DisplayName": "ID: 12506"
+  },
+  {
+    "InternalName": "Fang of the Mountain King",
+    "DisplayName": "山王长牙"
+  },
+  {
+    "InternalName": "A Thousand Blazing Suns",
+    "DisplayName": "焚曜千阳"
+  },
+  {
+    "InternalName": "Gest of the Mighty Wolf",
+    "DisplayName": "狼的武功歌"
+  },
+  {
+    "InternalName": "A Teaspoon of Transcendence",
+    "DisplayName": "超越之匙"
+  },
+  {
+    "InternalName": "Dialogues of the Desert Sages",
+    "DisplayName": "沙中伟贤的对答"
+  },
+  {
+    "InternalName": "Mountain-Bracing Bolt",
+    "DisplayName": "镇山之钉"
+  },
+  {
+    "InternalName": "Footprint of the Rainbow",
+    "DisplayName": "虹的行迹"
+  },
+  {
+    "InternalName": "Tamayuratei no Ohanashi",
+    "DisplayName": "且住亭御咄"
+  },
+  {
+    "InternalName": "Prospector's Shovel",
+    "DisplayName": "掘金之锹"
+  },
+  {
+    "InternalName": "Sacrificer's Staff",
+    "DisplayName": "圣祭者的辉杖"
+  },
+  {
+    "InternalName": "Frostbreath",
+    "DisplayName": "寒息"
+  },
+  {
+    "InternalName": "Song of the Vigil",
+    "DisplayName": "戍望谣歌"
+  },
+  {
+    "InternalName": "Deicide",
+    "DisplayName": "ID: 13506"
+  },
+  {
+    "InternalName": "Lumidouce Elegy",
+    "DisplayName": "柔灯挽歌"
+  },
+  {
+    "InternalName": "Symphonist of Scents",
+    "DisplayName": "香韵奏者"
+  },
+  {
+    "InternalName": "Fractured Halo",
+    "DisplayName": "支离轮光"
+  },
+  {
+    "InternalName": "Bloodsoaked Ruins",
+    "DisplayName": "血染荒城"
+  },
+  {
+    "InternalName": "Disaster and Remorse",
+    "DisplayName": "灾悔"
+  },
+  {
+    "InternalName": "Ash-Graven Drinking Horn",
+    "DisplayName": "苍纹角杯"
+  },
+  {
+    "InternalName": "Waveriding Whirl",
+    "DisplayName": "乘浪的回旋"
+  },
+  {
+    "InternalName": "Ring of Yaxche",
+    "DisplayName": "木棉之环"
+  },
+  {
+    "InternalName": "Etherlight Spindlelute",
+    "DisplayName": "天光的纺琴"
+  },
+  {
+    "InternalName": "Blackmarrow Lantern",
+    "DisplayName": "乌髓孑灯"
+  },
+  {
+    "InternalName": "Dawning Frost",
+    "DisplayName": "霜辰"
+  },
+  {
+    "InternalName": "Clash of Kings",
+    "DisplayName": "群王局戏"
+  },
+  {
+    "InternalName": "Echoes of the Heart",
+    "DisplayName": "寸心余响"
+  },
+  {
+    "InternalName": "Lost Ballade",
+    "DisplayName": "ID: 14503"
+  },
+  {
+    "InternalName": "Surf's Up",
+    "DisplayName": "冲浪时光"
+  },
+  {
+    "InternalName": "Starcaller's Watch",
+    "DisplayName": "祭星者之望"
+  },
+  {
+    "InternalName": "Sunny Morning Sleep-In",
+    "DisplayName": "寝正月初晴"
+  },
+  {
+    "InternalName": "Vivid Notions",
+    "DisplayName": "溢彩心念"
+  },
+  {
+    "InternalName": "Nightweaver's Looking Glass",
+    "DisplayName": "纺夜天镜"
+  },
+  {
+    "InternalName": "Reliquary of Truth",
+    "DisplayName": "真语秘匣"
+  },
+  {
+    "InternalName": "Nocturne's Curtain Call",
+    "DisplayName": "帷间夜曲"
+  },
+  {
+    "InternalName": "Angelos' Heptades",
+    "DisplayName": "尘光七谕"
+  },
+  {
+    "InternalName": "Ibis Piercer",
+    "DisplayName": "鹮穿之喙"
+  },
+  {
+    "InternalName": "Cloudforged",
+    "DisplayName": "筑云"
+  },
+  {
+    "InternalName": "Flower-Wreathed Feathers",
+    "DisplayName": "缀花之翎"
+  },
+  {
+    "InternalName": "Chain Breaker",
+    "DisplayName": "碎链"
+  },
+  {
+    "InternalName": "Sequence of Solitude",
+    "DisplayName": "冷寂迸音"
+  },
+  {
+    "InternalName": "Snare Hook",
+    "DisplayName": "罗网勾针"
+  },
+  {
+    "InternalName": "Rainbow Serpent's Rain Bow",
+    "DisplayName": "虹蛇的雨弦"
+  },
+  {
+    "InternalName": "Jade Vista",
+    "DisplayName": "悬黎千钧"
+  },
+  {
+    "InternalName": "Covenant of Frost and Snow",
+    "DisplayName": "霜雪誓约"
+  },
+  {
+    "InternalName": "Kunwu's Wyrmbane",
+    "DisplayName": "ID: 15504"
+  },
+  {
+    "InternalName": "Primordial Jade Vista",
+    "DisplayName": "ID: 15505"
+  },
+  {
+    "InternalName": "Mirror Breaker",
+    "DisplayName": "ID: 15506"
+  },
+  {
+    "InternalName": "Astral Vulture's Crimson Plumage",
+    "DisplayName": "星鹫赤羽"
+  },
+  {
+    "InternalName": "The Daybreak Chronicles",
+    "DisplayName": "黎明破晓之史"
+  },
+  {
+    "InternalName": "Golden Frostbound Oath",
+    "DisplayName": "霜结的誓金枝"
   }
 ]

@@ -730,5 +730,297 @@
   {
     "InternalName": "AzureLight",
     "DisplayName": "蒼耀"
+  },
+  {
+    "InternalName": "Prized Isshin Blade",
+    "DisplayName": "「一心伝」名刀"
+  },
+  {
+    "InternalName": "Sturdy Bone",
+    "DisplayName": "ストロング・ボーン"
+  },
+  {
+    "InternalName": "Flute of Ezpitzal",
+    "DisplayName": "エズピツァルの笛"
+  },
+  {
+    "InternalName": "Calamity of Eshu",
+    "DisplayName": "厄水の災い"
+  },
+  {
+    "InternalName": "Serenity's Call",
+    "DisplayName": "静謐の笛"
+  },
+  {
+    "InternalName": "Moonweaver's Dawn",
+    "DisplayName": "月紡ぎの曙光"
+  },
+  {
+    "InternalName": "Heretic's Molten Blade",
+    "DisplayName": "異端を狩る熔刃"
+  },
+  {
+    "InternalName": "Emberwell",
+    "DisplayName": "導炎の源"
+  },
+  {
+    "InternalName": "One Side",
+    "DisplayName": "虚構"
+  },
+  {
+    "InternalName": "Peak Patrol Song",
+    "DisplayName": "岩峰を巡る歌"
+  },
+  {
+    "InternalName": "Athame Artis",
+    "DisplayName": "黒蝕"
+  },
+  {
+    "InternalName": "Lightbearing Moonshard",
+    "DisplayName": "三日月の含光"
+  },
+  {
+    "InternalName": "Whitelake Frostfeather",
+    "DisplayName": "白銀の湖を舞う翼"
+  },
+  {
+    "InternalName": "Exaiphanes Blade",
+    "DisplayName": "星鋒の剣"
+  },
+  {
+    "InternalName": "Ultimate Overlord's Mega Magic Sword",
+    "DisplayName": "\"Ultimate Overlord's Mega Magic Sword\""
+  },
+  {
+    "InternalName": "Fruitful Hook",
+    "DisplayName": "実りの鉤鉈"
+  },
+  {
+    "InternalName": "Earth Shaker",
+    "DisplayName": "アースシェイカー"
+  },
+  {
+    "InternalName": "Flame-Forged Insight",
+    "DisplayName": "知恵の溶炎"
+  },
+  {
+    "InternalName": "Master Key",
+    "DisplayName": "万能の鍵"
+  },
+  {
+    "InternalName": "Forged by the Golden Melody",
+    "DisplayName": "シンフォニーの鋳影"
+  },
+  {
+    "InternalName": "Blade of Atonement",
+    "DisplayName": "救済の剣"
+  },
+  {
+    "InternalName": "Primordial Jade Greatsword",
+    "DisplayName": "美玉魚"
+  },
+  {
+    "InternalName": "The Other Side",
+    "DisplayName": "異史"
+  },
+  {
+    "InternalName": "Fang of the Mountain King",
+    "DisplayName": "山の王の長牙"
+  },
+  {
+    "InternalName": "A Thousand Blazing Suns",
+    "DisplayName": "千烈の日輪"
+  },
+  {
+    "InternalName": "Gest of the Mighty Wolf",
+    "DisplayName": "狼の武勲詩"
+  },
+  {
+    "InternalName": "A Teaspoon of Transcendence",
+    "DisplayName": "超越の鍵"
+  },
+  {
+    "InternalName": "Dialogues of the Desert Sages",
+    "DisplayName": "砂中の賢者達の問答"
+  },
+  {
+    "InternalName": "Mountain-Bracing Bolt",
+    "DisplayName": "鎮山の釘"
+  },
+  {
+    "InternalName": "Footprint of the Rainbow",
+    "DisplayName": "虹の行方"
+  },
+  {
+    "InternalName": "Tamayuratei no Ohanashi",
+    "DisplayName": "玉響停の御噺"
+  },
+  {
+    "InternalName": "Prospector's Shovel",
+    "DisplayName": "金掘りのシャベル"
+  },
+  {
+    "InternalName": "Sacrificer's Staff",
+    "DisplayName": "聖祭者の輝杖"
+  },
+  {
+    "InternalName": "Frostbreath",
+    "DisplayName": "氷の吐息"
+  },
+  {
+    "InternalName": "Song of the Vigil",
+    "DisplayName": "遠望の歌"
+  },
+  {
+    "InternalName": "Deicide",
+    "DisplayName": "レジサイド"
+  },
+  {
+    "InternalName": "Lumidouce Elegy",
+    "DisplayName": "ルミドゥースの挽歌"
+  },
+  {
+    "InternalName": "Symphonist of Scents",
+    "DisplayName": "香りのシンフォニスト"
+  },
+  {
+    "InternalName": "Fractured Halo",
+    "DisplayName": "砕け散る光輪"
+  },
+  {
+    "InternalName": "Bloodsoaked Ruins",
+    "DisplayName": "血染めの荒れ地"
+  },
+  {
+    "InternalName": "Disaster and Remorse",
+    "DisplayName": "災憾"
+  },
+  {
+    "InternalName": "Ash-Graven Drinking Horn",
+    "DisplayName": "蒼紋の角杯"
+  },
+  {
+    "InternalName": "Waveriding Whirl",
+    "DisplayName": "波乗りの旋回"
+  },
+  {
+    "InternalName": "Ring of Yaxche",
+    "DisplayName": "ヤシュチェの環"
+  },
+  {
+    "InternalName": "Etherlight Spindlelute",
+    "DisplayName": "天光のリュート"
+  },
+  {
+    "InternalName": "Blackmarrow Lantern",
+    "DisplayName": "烏髄の孤灯"
+  },
+  {
+    "InternalName": "Dawning Frost",
+    "DisplayName": "霜辰"
+  },
+  {
+    "InternalName": "Clash of Kings",
+    "DisplayName": "諸王の対局"
+  },
+  {
+    "InternalName": "Echoes of the Heart",
+    "DisplayName": "胸中の谺"
+  },
+  {
+    "InternalName": "Lost Ballade",
+    "DisplayName": "散逸した叙事詩"
+  },
+  {
+    "InternalName": "Surf's Up",
+    "DisplayName": "サーフィンタイム"
+  },
+  {
+    "InternalName": "Starcaller's Watch",
+    "DisplayName": "祭星者の眺め"
+  },
+  {
+    "InternalName": "Sunny Morning Sleep-In",
+    "DisplayName": "寝正月の初晴"
+  },
+  {
+    "InternalName": "Vivid Notions",
+    "DisplayName": "ヴィヴィッド・ハート"
+  },
+  {
+    "InternalName": "Nightweaver's Looking Glass",
+    "DisplayName": "夜を紡ぐ天鏡"
+  },
+  {
+    "InternalName": "Reliquary of Truth",
+    "DisplayName": "真言の匣"
+  },
+  {
+    "InternalName": "Nocturne's Curtain Call",
+    "DisplayName": "帳の夜曲"
+  },
+  {
+    "InternalName": "Angelos' Heptades",
+    "DisplayName": "塵と光の七つの誓約"
+  },
+  {
+    "InternalName": "Ibis Piercer",
+    "DisplayName": "トキの嘴"
+  },
+  {
+    "InternalName": "Cloudforged",
+    "DisplayName": "築雲"
+  },
+  {
+    "InternalName": "Flower-Wreathed Feathers",
+    "DisplayName": "花飾りの羽"
+  },
+  {
+    "InternalName": "Chain Breaker",
+    "DisplayName": "チェーンブレイカー"
+  },
+  {
+    "InternalName": "Sequence of Solitude",
+    "DisplayName": "冷寂の音"
+  },
+  {
+    "InternalName": "Snare Hook",
+    "DisplayName": "羅網の針"
+  },
+  {
+    "InternalName": "Rainbow Serpent's Rain Bow",
+    "DisplayName": "虹蛇の雨弦"
+  },
+  {
+    "InternalName": "Jade Vista",
+    "DisplayName": "千鈞懸黎"
+  },
+  {
+    "InternalName": "Covenant of Frost and Snow",
+    "DisplayName": "霜雪の契"
+  },
+  {
+    "InternalName": "Kunwu's Wyrmbane",
+    "DisplayName": "昆吾の堕龍"
+  },
+  {
+    "InternalName": "Primordial Jade Vista",
+    "DisplayName": "高価なオーブ"
+  },
+  {
+    "InternalName": "Mirror Breaker",
+    "DisplayName": "壊れた鏡"
+  },
+  {
+    "InternalName": "Astral Vulture's Crimson Plumage",
+    "DisplayName": "星鷲の紅き羽"
+  },
+  {
+    "InternalName": "The Daybreak Chronicles",
+    "DisplayName": "暁を告げる歴史"
+  },
+  {
+    "InternalName": "Golden Frostbound Oath",
+    "DisplayName": "霜契の金枝"
   }
 ]
