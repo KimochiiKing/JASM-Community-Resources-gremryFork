@@ -1,7 +1,7 @@
 [
   {
     "InternalName": "Others",
-    "DisplayName": "Agentes"
+    "DisplayName": "Agents"
   },
   {
     "InternalName": "Weapons",
@@ -13,15 +13,15 @@
     "InGameSkins": [
       {
         "InternalName": "BelleDelicateSunlight",
-        "DisplayName": "Luz Suave"
+        "DisplayName": "Belle Delicate Sunlight"
       },
       {
         "InternalName": "BelleSummerSkies",
-        "DisplayName": "Céus de Verão"
+        "DisplayName": "Belle Summer Skies"
       },
       {
         "InternalName": "BelleBrillianceOfStars",
-        "DisplayName": "Brilho Estelar"
+        "DisplayName": "Belle Brilliance of Stars"
       }
     ]
   },
@@ -31,15 +31,15 @@
     "InGameSkins": [
       {
         "InternalName": "WiseSoaringCrane",
-        "DisplayName": "Voo da Garça"
+        "DisplayName": "Wise Soaring Crane"
       },
       {
         "InternalName": "WisePeacefulWaves",
-        "DisplayName": "Ondas Serenas"
+        "DisplayName": "Wise Peaceful Waves"
       },
       {
         "InternalName": "WiseOathOfSkies",
-        "DisplayName": "Juramento dos Céus"
+        "DisplayName": "Wise Oath of Skies"
       }
     ]
   },
@@ -53,7 +53,7 @@
     "InGameSkins": [
       {
         "InternalName": "Ellen On Campus",
-        "DisplayName": "No Campus"
+        "DisplayName": "Ellen On Campus"
       }
     ]
   },
@@ -71,7 +71,7 @@
   },
   {
     "InternalName": "Soldier11",
-    "DisplayName": "N.º 11"
+    "DisplayName": "Soldier 11"
   },
   {
     "InternalName": "Lycaon",
@@ -107,7 +107,7 @@
     "InGameSkins": [
       {
         "InternalName": "Princess on Holiday",
-        "DisplayName": "Princesa de Férias"
+        "DisplayName": "Lucy Princess on Holiday"
       }
     ]
   },
@@ -117,7 +117,7 @@
     "InGameSkins": [
       {
         "InternalName": "Nicole Cunning Cutie",
-        "DisplayName": "Fofura Astuta"
+        "DisplayName": "Nicole Cunning Cutie"
       }
     ]
   },
@@ -139,7 +139,7 @@
     "InGameSkins": [
       {
         "InternalName": "Jane Doe Nocturne of Light",
-        "DisplayName": "Noturno de Luz"
+        "DisplayName": "Jane Doe Nocturne of Light"
       }
     ]
   },
@@ -173,7 +173,7 @@
     "InGameSkins": [
       {
         "InternalName": "Astra Chandelier",
-        "DisplayName": "Lustre de Cristal"
+        "DisplayName": "Astra Chandelier"
       }
     ]
   },
@@ -191,7 +191,7 @@
   },
   {
     "InternalName": "Silver Soldier - Anby",
-    "DisplayName": "Soldado N.º0 - Anby"
+    "DisplayName": "Soldier 0 - Anby"
   },
   {
     "InternalName": "Trigger",
@@ -203,7 +203,7 @@
     "InGameSkins": [
       {
         "InternalName": "IrisOfTheShore",
-        "DisplayName": "Íris da Costa"
+        "DisplayName": "Iris of the Shore"
       }
     ]
   },
@@ -217,7 +217,7 @@
     "InGameSkins": [
       {
         "InternalName": "YixuanTrailsofInk",
-        "DisplayName": "Rastros de Tinta"
+        "DisplayName": "YixuanTrailsofInkr"
       }
     ]
   },
@@ -235,7 +235,7 @@
     "InGameSkins": [
       {
         "InternalName": "YuzuhaTanukiInBroadDaylight",
-        "DisplayName": "Tanuki à Luz do Dia"
+        "DisplayName": "Yuzuha Tanuki in Broad Daylight"
       }
     ]
   },
@@ -245,13 +245,13 @@
     "InGameSkins": [
       {
         "InternalName": "AliceSeaOfThyme",
-        "DisplayName": "Mar de Tomilho"
+        "DisplayName": "Alice Sea of Thyme"
       }
     ]
   },
   {
     "InternalName": "Orphie",
-    "DisplayName": "Orfeu & Magus"
+    "DisplayName": "Orphie & Magus"
   },
   {
     "InternalName": "Seed",
@@ -263,13 +263,13 @@
     "InGameSkins": [
       {
         "InternalName": "WhiteHeartSilhouette",
-        "DisplayName": "Silhueta do Coração Branco"
+        "DisplayName": "White Heart Silhouette"
       }
     ]
   },
   {
     "InternalName": "Lucia",
-    "DisplayName": "Lúcia"
+    "DisplayName": "Lucia"
   },
   {
     "InternalName": "Yidhari",
@@ -289,7 +289,7 @@
     "InGameSkins": [
       {
         "InternalName": "Ye Shunguang Touch of Dawnlight",
-        "DisplayName": "Toque da Alvorada"
+        "DisplayName": "Ye Shunguang Touch of Dawnlight"
       }
     ]
   },
@@ -303,7 +303,7 @@
     "InGameSkins": [
       {
         "InternalName": "Sunna Afternoon Tea Break",
-        "DisplayName": "Pausa para o Chá"
+        "DisplayName": "Sunna Afternoon Tea Break"
       }
     ]
   },
@@ -313,7 +313,7 @@
     "InGameSkins": [
       {
         "InternalName": "Aria Discordant Note",
-        "DisplayName": "Nota Dissonante"
+        "DisplayName": "Aria Discordant Note"
       }
     ]
   },
@@ -323,17 +323,17 @@
     "InGameSkins": [
       {
         "InternalName": "RhapsodysMuse",
-        "DisplayName": "Musa da Rapsódia"
+        "DisplayName": "Nangong Yu Rhapsody's Muse"
       }
     ]
   },
   {
     "InternalName": "Cissia",
-    "DisplayName": "Císsia"
+    "DisplayName": "Cissia"
   },
   {
     "InternalName": "StarlightBilly",
-    "DisplayName": "Billy Estelar"
+    "DisplayName": "Starlight - Billy"
   },
   {
     "InternalName": "Promeia",
@@ -357,11 +357,11 @@
     "InGameSkins": [
       {
         "InternalName": "MoonlightWhispers",
-        "DisplayName": "Sussurros do Luar"
+        "DisplayName": "Remielle Moonlight Whispers"
       },
       {
         "InternalName": "SeashadePasSeul",
-        "DisplayName": "Dança das Sombras do Mar"
+        "DisplayName": "Remielle Seashade Pas Seul"
       }
     ]
   },
@@ -371,7 +371,7 @@
     "InGameSkins": [
       {
         "InternalName": "MajesticWavechaser",
-        "DisplayName": "Caça-Ondas Majestoso"
+        "DisplayName": "Sigrid Majestic Wavechaser"
       }
     ]
   },

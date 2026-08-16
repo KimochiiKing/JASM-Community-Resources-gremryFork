@@ -1,8 +1,8 @@
 [
   {
     "InternalName": "Character",
-    "DisplayName": "Personaje",
-    "DisplayNamePlural": "Personajes"
+    "DisplayName": "Agente",
+    "DisplayNamePlural": "Agentes"
   },
   {
     "InternalName": "NPC",
@@ -16,7 +16,7 @@
   },
   {
     "InternalName": "Weapon",
-    "DisplayName": "Arma",
-    "DisplayNamePlural": "Armas"
+    "DisplayName": "Bangbú",
+    "DisplayNamePlural": "Bangbús"
   }
 ]

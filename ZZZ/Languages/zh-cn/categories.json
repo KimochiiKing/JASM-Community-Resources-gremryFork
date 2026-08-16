@@ -1,8 +1,8 @@
 [
   {
     "InternalName": "Character",
-    "DisplayName": "角色",
-    "DisplayNamePlural": "角色"
+    "DisplayName": "代理人",
+    "DisplayNamePlural": "代理人"
   },
   {
     "InternalName": "NPC",
@@ -16,7 +16,7 @@
   },
   {
     "InternalName": "Weapon",
-    "DisplayName": "武器",
-    "DisplayNamePlural": "武器"
+    "DisplayName": "邦布",
+    "DisplayNamePlural": "邦布"
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
     "InternalName": "Character",
-    "DisplayName": "Agente",
-    "DisplayNamePlural": "Agentes"
+    "DisplayName": "Agent",
+    "DisplayNamePlural": "Agents"
   },
   {
     "InternalName": "NPC",
@@ -11,8 +11,8 @@
   },
   {
     "InternalName": "Object",
-    "DisplayName": "Objeto",
-    "DisplayNamePlural": "Objetos"
+    "DisplayName": "Object",
+    "DisplayNamePlural": "Objects"
   },
   {
     "InternalName": "Weapon",

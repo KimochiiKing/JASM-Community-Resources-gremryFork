@@ -1,8 +1,8 @@
 [
   {
     "InternalName": "Character",
-    "DisplayName": "캐릭터",
-    "DisplayNamePlural": "캐릭터"
+    "DisplayName": "에이전트",
+    "DisplayNamePlural": "에이전트"
   },
   {
     "InternalName": "NPC",
@@ -16,7 +16,7 @@
   },
   {
     "InternalName": "Weapon",
-    "DisplayName": "무기",
-    "DisplayNamePlural": "무기"
+    "DisplayName": "방부",
+    "DisplayNamePlural": "방부"
   }
 ]
