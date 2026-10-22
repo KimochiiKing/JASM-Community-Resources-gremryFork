@@ -15,13 +15,13 @@
     "InGameSkins": [
       {
         "ModFilesName": "BelleDelicateSunlight",
-        "Image": "BelleDelicateSunlight.png",
+        "Image": "BelleDelicateSunlight.webp",
         "InternalName": "BelleDelicateSunlight",
         "DisplayName": "Delicate Sunlight"
       },
       {
         "ModFilesName": "BelleSummerSkin",
-        "Image": "BelleSummerSkies.png",
+        "Image": "BelleSummerSkies.webp",
         "InternalName": "BelleSummerSkies",
         "DisplayName": "Summer Skies"
       },
@@ -51,13 +51,13 @@
     "InGameSkins": [
       {
         "ModFilesName": "WiseSoaringCrane",
-        "Image": "WiseSoaringCrane.png",
+        "Image": "WiseSoaringCrane.webp",
         "InternalName": "WiseSoaringCrane",
         "DisplayName": "Soaring Crane"
       },
       {
         "ModFilesName": "WiseSummerSkin",
-        "Image": "WisePeacefulWaves.png",
+        "Image": "WisePeacefulWaves.webp",
         "InternalName": "WisePeacefulWaves",
         "DisplayName": "Peaceful Waves"
       },
@@ -681,7 +681,7 @@
       "Hugo"
     ],
     "ReleaseDate": "2025-05-14T00:00:00",
-    "Image": "Hugo.png",
+    "Image": "Hugo.webp",
     "Rarity": 5,
     "Element": "Ice",
     "Class": "Attack",
@@ -698,7 +698,7 @@
       "Yixuan"
     ],
     "ReleaseDate": "2025-06-06T00:00:00",
-    "Image": "Yixuan.png",
+    "Image": "Yixuan.webp",
     "Rarity": 5,
     "Element": "Ether",
     "Class": "Rupture",
@@ -709,7 +709,7 @@
     "InGameSkins": [
       {
         "ModFilesName": "YixuanTrailsofInk",
-        "Image": "YixuanTrailsofInk.png",
+        "Image": "YixuanTrailsofInk.webp",
         "InternalName": "YixuanTrailsofInk",
         "DisplayName": "Trails of Ink"
       }
@@ -722,7 +722,7 @@
       "Panyinhu"
     ],
     "ReleaseDate": "2025-06-06T00:00:00",
-    "Image": "PanYinhu.png",
+    "Image": "PanYinhu.webp",
     "Rarity": 4,
     "Element": "Physical",
     "Class": "Defense",
@@ -739,7 +739,7 @@
       "Jufufu"
     ],
     "ReleaseDate": "2025-06-25T00:00:00",
-    "Image": "JuFufu.png",
+    "Image": "JuFufu.webp",
     "Rarity": 5,
     "Element": "Fire",
     "Class": "Stun",
@@ -757,7 +757,7 @@
       "Ukinami"
     ],
     "ReleaseDate": "2025-07-16T00:00:00",
-    "Image": "UkinamiYuzuha.png",
+    "Image": "UkinamiYuzuha.webp",
     "Rarity": 5,
     "Element": "Physical",
     "Class": "Support",
@@ -768,7 +768,7 @@
     "InGameSkins": [
       {
         "ModFilesName": "YuzuhaSkin",
-        "Image": "YuzuhaTanukiInBroadDaylight.png",
+        "Image": "YuzuhaTanukiInBroadDaylight.webp",
         "InternalName": "YuzuhaTanukiInBroadDaylight",
         "DisplayName": "Tanuki in Broad Daylight"
       }
@@ -782,7 +782,7 @@
       "Thymefield"
     ],
     "ReleaseDate": "2025-08-06T00:00:00",
-    "Image": "AliceThymefield.png",
+    "Image": "AliceThymefield.webp",
     "Rarity": 5,
     "Element": "Physical",
     "Class": "Anomaly",
@@ -793,7 +793,7 @@
     "InGameSkins": [
       {
         "ModFilesName": "AliceSkin",
-        "Image": "AliceSeaOfThyme.png",
+        "Image": "AliceSeaOfThyme.webp",
         "InternalName": "AliceSeaOfThyme",
         "DisplayName": "Sea of Thyme"
       }
@@ -807,7 +807,7 @@
       "Magnusson"
     ],
     "ReleaseDate": "2026-01-01T00:00:00",
-    "Image": "OrphieMagnusson.png",
+    "Image": "OrphieMagnusson.webp",
     "Rarity": 5,
     "Element": "Fire",
     "Class": "Attack",
@@ -824,7 +824,7 @@
       "Seed"
     ],
     "ReleaseDate": "2026-01-01T00:00:00",
-    "Image": "Seed.png",
+    "Image": "Seed.webp",
     "Rarity": 5,
     "Element": "Electric",
     "Class": "Attack",
@@ -842,7 +842,7 @@
       "Komano"
     ],
     "ReleaseDate": "2025-11-05T00:00:00",
-    "Image": "Manato.png",
+    "Image": "Manato.webp",
     "Rarity": 4,
     "Element": "Fire",
     "Class": "Rupture",
@@ -867,7 +867,7 @@
       "Elowen"
     ],
     "ReleaseDate": "2025-10-15T00:00:00",
-    "Image": "Lucia.png",
+    "Image": "Lucia.webp",
     "Rarity": 5,
     "Element": "Ether",
     "Class": "Support",
@@ -885,7 +885,7 @@
       "Murphy"
     ],
     "ReleaseDate": "2025-11-05T00:00:00",
-    "Image": "Yidhari.png",
+    "Image": "Yidhari.webp",
     "Rarity": 5,
     "Element": "Ice",
     "Class": "Rupture",
@@ -989,9 +989,15 @@
     "InGameSkins": [
       {
         "ModFilesName": "SunnaTeaBreak",
-        "Image": "SunnaAfternoonTeaBreak.png",
+        "Image": "SunnaAfternoonTeaBreak.webp",
         "InternalName": "Sunna Afternoon Tea Break",
         "DisplayName": "Afternoon Tea Break"
+      },
+      {
+        "ModFilesName": "SunnaDelusionsInBusiness",
+        "Image": "SunnaDelusionsInBusiness.webp",
+        "InternalName": "SunnaDelusionsInBusiness",
+        "DisplayName": "Delusions in Business"
       }
     ],
     "InternalName": "Sunna",
@@ -1013,9 +1019,15 @@
     "InGameSkins": [
       {
         "ModFilesName": "AriaDiscordantNote",
-        "Image": "AriaDiscordantNote.png",
+        "Image": "AriaDiscordantNote.webp",
         "InternalName": "Aria Discordant Note",
         "DisplayName": "Discordant Note"
+      },
+      {
+        "ModFilesName": "AriaCutenessLoading",
+        "Image": "AriaCutenessLoading.webp",
+        "InternalName": "AriaCutenessLoading",
+        "DisplayName": "Cuteness Loading"
       }
     ],
     "InternalName": "Aria",
@@ -1041,6 +1053,12 @@
         "Image": "NangongYuRhapsodyMuse.png",
         "InternalName": "Nangong Yu Rhapsody's Muse",
         "DisplayName": "Rhapsody's Muse"
+      },
+      {
+        "ModFilesName": "NangongYuHeartfeltSupport",
+        "Image": "NangongYuHeartfeltSupport.webp",
+        "InternalName": "NangongYuHeartfeltSupport",
+        "DisplayName": "Heartfelt Support"
       }
     ],
     "InternalName": "NangongYu",
@@ -1180,16 +1198,16 @@
     "ModFilesName": "Remielle",
     "InGameSkins": [
       {
-        "ModFilesName": "RemielleSeashadePasSeul",
-        "Image": "RemielleSeashadePasSeul.png",
-        "InternalName": "RemielleSeashadePasSeul",
-        "DisplayName": "Seashade Pas Seul"
-      },
-      {
         "ModFilesName": "RemielleMoonlightWhispers",
         "Image": "RemielleMoonlightWhispers.png",
         "InternalName": "RemielleMoonlightWhispers",
         "DisplayName": "Moonlight Whispers"
+      },
+      {
+        "ModFilesName": "RemielleSeashadePasSeul",
+        "Image": "RemielleSeashadePasSeul.png",
+        "InternalName": "RemielleSeashadePasSeul",
+        "DisplayName": "Seashade Pas Seul"
       }
     ],
     "InternalName": "Remielle",
@@ -1218,7 +1236,6 @@
         "InternalName": "Sigrid Majestic Wavechaser",
         "DisplayName": "Majestic Wavechaser"
       }
-
     ],
     "InternalName": "Sigrid",
     "DisplayName": "Sigrid"
@@ -1245,14 +1262,14 @@
   },
   {
     "Keys": [
-      "pryce",
       "roxy",
+      "pryce",
       "roxy ifrita pryce",
       "roxy pryce",
       "roxyifritapryce"
     ],
     "ReleaseDate": "2026-09-30T00:00:00",
-    "Image": "Pryce.webp",
+    "Image": "Roxy.webp",
     "Rarity": 5,
     "Element": "Wind",
     "Class": "Stun",
@@ -1260,9 +1277,9 @@
       "Roscaelifer",
       "FlintWorks"
     ],
-    "ModFilesName": "Pryce",
+    "ModFilesName": "Roxy",
     "InGameSkins": [],
-    "InternalName": "Pryce",
-    "DisplayName": "Pryce"
+    "InternalName": "Roxy",
+    "DisplayName": "Roxy"
   }
 ]
