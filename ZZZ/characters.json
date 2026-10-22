@@ -1269,7 +1269,7 @@
       "roxyifritapryce"
     ],
     "ReleaseDate": "2026-09-30T00:00:00",
-    "Image": "Roxy.webp",
+    "Image": "Pryce.webp",
     "Rarity": 5,
     "Element": "Wind",
     "Class": "Stun",
@@ -1277,9 +1277,9 @@
       "Roscaelifer",
       "FlintWorks"
     ],
-    "ModFilesName": "Roxy",
+    "ModFilesName": "Pryce",
     "InGameSkins": [],
-    "InternalName": "Roxy",
-    "DisplayName": "Roxy"
+    "InternalName": "Pryce",
+    "DisplayName": "Pryce"
   }
 ]
