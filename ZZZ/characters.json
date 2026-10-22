@@ -93,7 +93,7 @@
     "Keys": [
       "Ellen"
     ],
-    "ReleaseDate": "2024-07-4T00:10:00",
+    "ReleaseDate": "2024-07-04T00:10:00",
     "Image": "Ellen.webp",
     "Rarity": 5,
     "Element": "Ice",
@@ -203,7 +203,7 @@
     "Keys": [
       "ZhuYuan"
     ],
-    "ReleaseDate": "2024-07-4T00:10:00",
+    "ReleaseDate": "2024-07-24T00:10:00",
     "Image": "ZhuYuan.webp",
     "Rarity": 5,
     "Element": "Ether",
@@ -413,7 +413,7 @@
       "Jane",
       "Doe"
     ],
-    "ReleaseDate": "2024-08-14T00:00:00",
+    "ReleaseDate": "2024-09-03T00:00:00",
     "Image": "Jane.webp",
     "Rarity": 5,
     "Element": "Physical",
@@ -491,7 +491,7 @@
       "Burnice",
       "White"
     ],
-    "ReleaseDate": "2024-10-25T00:00:00",
+    "ReleaseDate": "2024-10-15T00:00:00",
     "Image": "Burnice.webp",
     "Rarity": 5,
     "Element": "Fire",
@@ -570,7 +570,7 @@
       "Evelyn",
       "Chevalier"
     ],
-    "ReleaseDate": "2025-02-12T00:00:00",
+    "ReleaseDate": "2025-02-11T00:00:00",
     "Image": "Evelyn.webp",
     "Rarity": 5,
     "Element": "Fire",
@@ -587,7 +587,7 @@
     "Keys": [
       "Lighter"
     ],
-    "ReleaseDate": "2024-11-27T00:00:00",
+    "ReleaseDate": "2024-11-26T00:00:00",
     "Image": "Lighter.webp",
     "Rarity": 5,
     "Element": "Fire",
@@ -639,7 +639,7 @@
     "Keys": [
       "Trigger"
     ],
-    "ReleaseDate": "2025-04-21T00:00:00",
+    "ReleaseDate": "2025-04-01T00:00:00",
     "Image": "Trigger.webp",
     "Rarity": 5,
     "Element": "Electric",
@@ -680,7 +680,7 @@
     "Keys": [
       "Hugo"
     ],
-    "ReleaseDate": "2025-05-14T00:00:00",
+    "ReleaseDate": "2025-05-13T00:00:00",
     "Image": "Hugo.webp",
     "Rarity": 5,
     "Element": "Ice",
@@ -697,7 +697,7 @@
     "Keys": [
       "Yixuan"
     ],
-    "ReleaseDate": "2025-06-06T00:00:00",
+    "ReleaseDate": "2025-06-05T00:00:00",
     "Image": "Yixuan.webp",
     "Rarity": 5,
     "Element": "Ether",
@@ -781,7 +781,7 @@
       "Alice",
       "Thymefield"
     ],
-    "ReleaseDate": "2025-08-06T00:00:00",
+    "ReleaseDate": "2025-08-05T00:00:00",
     "Image": "AliceThymefield.webp",
     "Rarity": 5,
     "Element": "Physical",
@@ -806,7 +806,7 @@
       "Orphie",
       "Magnusson"
     ],
-    "ReleaseDate": "2026-01-01T00:00:00",
+    "ReleaseDate": "2026-09-23T00:00:00",
     "Image": "OrphieMagnusson.webp",
     "Rarity": 5,
     "Element": "Fire",
@@ -823,7 +823,7 @@
     "Keys": [
       "Seed"
     ],
-    "ReleaseDate": "2026-01-01T00:00:00",
+    "ReleaseDate": "2025-09-03T00:00:00",
     "Image": "Seed.webp",
     "Rarity": 5,
     "Element": "Electric",
@@ -884,7 +884,7 @@
       "Yidhari",
       "Murphy"
     ],
-    "ReleaseDate": "2025-11-05T00:00:00",
+    "ReleaseDate": "2025-11-04T00:00:00",
     "Image": "Yidhari.webp",
     "Rarity": 5,
     "Element": "Ice",
@@ -933,7 +933,8 @@
   },
   {
     "Keys": [
-      "Ye Shunguang"
+      "Ye Shunguang",
+      "Shungus"
     ],
     "ReleaseDate": "2025-12-30T00:00:00",
     "Image": "YeShunguang.webp",
@@ -1007,7 +1008,7 @@
     "Keys": [
       "Aria"
     ],
-    "ReleaseDate": "2026-02-30T00:00:00",
+    "ReleaseDate": "2026-03-04T00:00:00",
     "Image": "Aria.webp",
     "Rarity": 5,
     "Element": "Ether",
@@ -1085,7 +1086,8 @@
     "Keys": [
       "Starlight - Billy Kid",
       "Starlight Billy",
-      "Starlight"
+      "Starlight",
+      "Silly"
     ],
     "ReleaseDate": "2026-05-27T00:00:00",
     "Image": "StarlightBilly.webp",
@@ -1160,7 +1162,7 @@
       "velina airgid",
       "velinaairgid"
     ],
-    "ReleaseDate": "2026-06-17T00:00:00",
+    "ReleaseDate": "2026-06-16T00:00:00",
     "Image": "Velina.webp",
     "Rarity": 5,
     "Element": "Wind",
@@ -1187,7 +1189,7 @@
       "remielle dan",
       "remielledan"
     ],
-    "ReleaseDate": "2026-07-29T00:00:00",
+    "ReleaseDate": "2026-07-28T00:00:00",
     "Image": "Remielle.png",
     "Rarity": 5,
     "Element": "Lumiflux",
@@ -1281,5 +1283,47 @@
     "InGameSkins": [],
     "InternalName": "Pryce",
     "DisplayName": "Pryce"
+  },
+  {
+    "Keys": [
+      "phoenix"
+    ],
+    "ReleaseDate": "2026-10-20T00:00:00",
+    "Image": "Phoenix.webp",
+    "Rarity": 5,
+    "Element": "fire",
+    "Class": "Anomaly",
+    "Region": [
+      "Krampus"
+    ],
+    "ModFilesName": "Phoenix",
+    "InGameSkins": [
+      {
+      
+      }
+    ],
+    "InternalName": "Phoenix",
+    "DisplayName": "Phoenix"
+  },
+  {
+    "Keys": [
+      "phoenix"
+    ],
+    "ReleaseDate": "2026-11-11T00:00:00",
+    "Image": "Severian.webp",
+    "Rarity": 5,
+    "Element": "Wind",
+    "Class": "Attack",
+    "Region": [
+      "ResponseTeam"
+    ],
+    "ModFilesName": "Severian",
+    "InGameSkins": [
+      {
+  
+      }
+    ],
+    "InternalName": "Severian",
+    "DisplayName": "Severian"
   }
 ]

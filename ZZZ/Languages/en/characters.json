@@ -13,15 +13,15 @@
     "InGameSkins": [
       {
         "InternalName": "BelleDelicateSunlight",
-        "DisplayName": "Belle Delicate Sunlight"
+        "DisplayName": "Delicate Sunlight"
       },
       {
         "InternalName": "BelleSummerSkies",
-        "DisplayName": "Belle Summer Skies"
+        "DisplayName": "Summer Skies"
       },
       {
         "InternalName": "BelleBrillianceOfStars",
-        "DisplayName": "Belle Brilliance of Stars"
+        "DisplayName": "Brilliance of Stars"
       }
     ]
   },
@@ -31,15 +31,15 @@
     "InGameSkins": [
       {
         "InternalName": "WiseSoaringCrane",
-        "DisplayName": "Wise Soaring Crane"
+        "DisplayName": "Soaring Crane"
       },
       {
         "InternalName": "WisePeacefulWaves",
-        "DisplayName": "Wise Peaceful Waves"
+        "DisplayName": "Peaceful Waves"
       },
       {
         "InternalName": "WiseOathOfSkies",
-        "DisplayName": "Wise Oath of Skies"
+        "DisplayName": "Oath of Skies"
       }
     ]
   },
@@ -53,7 +53,7 @@
     "InGameSkins": [
       {
         "InternalName": "Ellen On Campus",
-        "DisplayName": "Ellen On Campus"
+        "DisplayName": "On Campus"
       }
     ]
   },
@@ -107,7 +107,7 @@
     "InGameSkins": [
       {
         "InternalName": "Princess on Holiday",
-        "DisplayName": "Lucy Princess on Holiday"
+        "DisplayName": "Princess on Holiday"
       }
     ]
   },
@@ -117,7 +117,7 @@
     "InGameSkins": [
       {
         "InternalName": "Nicole Cunning Cutie",
-        "DisplayName": "Nicole Cunning Cutie"
+        "DisplayName": "Cunning Cutie"
       }
     ]
   },
@@ -139,7 +139,7 @@
     "InGameSkins": [
       {
         "InternalName": "Jane Doe Nocturne of Light",
-        "DisplayName": "Jane Doe Nocturne of Light"
+        "DisplayName": "Nocturne of Light"
       }
     ]
   },
@@ -173,7 +173,7 @@
     "InGameSkins": [
       {
         "InternalName": "Astra Chandelier",
-        "DisplayName": "Astra Chandelier"
+        "DisplayName": "Chandelier"
       }
     ]
   },
@@ -217,7 +217,7 @@
     "InGameSkins": [
       {
         "InternalName": "YixuanTrailsofInk",
-        "DisplayName": "YixuanTrailsofInkr"
+        "DisplayName": "TrailsofInk"
       }
     ]
   },
@@ -235,7 +235,7 @@
     "InGameSkins": [
       {
         "InternalName": "YuzuhaTanukiInBroadDaylight",
-        "DisplayName": "Yuzuha Tanuki in Broad Daylight"
+        "DisplayName": "Tanuki in Broad Daylight"
       }
     ]
   },
@@ -245,7 +245,7 @@
     "InGameSkins": [
       {
         "InternalName": "AliceSeaOfThyme",
-        "DisplayName": "Alice Sea of Thyme"
+        "DisplayName": "Sea of Thyme"
       }
     ]
   },
@@ -289,7 +289,7 @@
     "InGameSkins": [
       {
         "InternalName": "Ye Shunguang Touch of Dawnlight",
-        "DisplayName": "Ye Shunguang Touch of Dawnlight"
+        "DisplayName": "Touch of Dawnlight"
       }
     ]
   },
@@ -303,7 +303,7 @@
     "InGameSkins": [
       {
         "InternalName": "Sunna Afternoon Tea Break",
-        "DisplayName": "Sunna Afternoon Tea Break"
+        "DisplayName": "Afternoon Tea Break"
       },
       {
         "InternalName": "SunnaDelusionsInBusiness",
@@ -331,7 +331,7 @@
     "InGameSkins": [
       {
         "InternalName": "RhapsodysMuse",
-        "DisplayName": "Nangong Yu Rhapsody's Muse"
+        "DisplayName": "Rhapsody's Muse"
       },
       {
         "InternalName": "NangongYuHeartfeltSupport",
@@ -369,11 +369,11 @@
     "InGameSkins": [
       {
         "InternalName": "MoonlightWhispers",
-        "DisplayName": "Remielle Moonlight Whispers"
+        "DisplayName": "Moonlight Whispers"
       },
       {
         "InternalName": "SeashadePasSeul",
-        "DisplayName": "Remielle Seashade Pas Seul"
+        "DisplayName": "Seashade Pas Seul"
       }
     ]
   },
@@ -383,7 +383,7 @@
     "InGameSkins": [
       {
         "InternalName": "MajesticWavechaser",
-        "DisplayName": "Sigrid Majestic Wavechaser"
+        "DisplayName": "Majestic Wavechaser"
       }
     ]
   },
@@ -394,5 +394,13 @@
   {
     "InternalName": "Roxy",
     "DisplayName": "Roxy"
+  },
+  {
+    "InternalName": "Phoenix",
+    "DisplayName": "Phoenix"
+  },
+  {
+    "InternalName": "Severian",
+    "DisplayName": "Severian"
   }
 ]
