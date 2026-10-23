@@ -1299,7 +1299,16 @@
     "ModFilesName": "Phoenix",
     "InGameSkins": [
       {
-      
+        "ModFilesName": "PhoenixTheIllnessCalledLife",
+        "Image": "PhoenixTheIllnessCalledLife.webp",
+        "InternalName": "TheIllnessCalledLife",
+        "DisplayName": "The Illness Called Life"
+      },
+      {
+        "ModFilesName": "PhoenixDaydreamComplex",
+        "Image": "PhoenixDaydreamComplex.webp",
+        "InternalName": "DaydreamComplex",
+        "DisplayName": "Daydream Complex"
       }
     ],
     "InternalName": "Phoenix",
@@ -1319,9 +1328,6 @@
     ],
     "ModFilesName": "Severian",
     "InGameSkins": [
-      {
-  
-      }
     ],
     "InternalName": "Severian",
     "DisplayName": "Severian"
