@@ -1021,13 +1021,13 @@
       {
         "ModFilesName": "AriaDiscordantNote",
         "Image": "AriaDiscordantNote.webp",
-        "InternalName": "Aria Discordant Note",
+        "InternalName": "Discordant Note",
         "DisplayName": "Discordant Note"
       },
       {
         "ModFilesName": "AriaCutenessLoading",
         "Image": "AriaCutenessLoading.webp",
-        "InternalName": "AriaCutenessLoading",
+        "InternalName": "Cuteness Loading",
         "DisplayName": "Cuteness Loading"
       }
     ],
@@ -1050,13 +1050,13 @@
     "ModFilesName": "NangongYu",
     "InGameSkins": [
       {
-        "ModFilesName": "RhapsodyMuse",
+        "ModFilesName": "NangongYuRhapsodyMuse",
         "Image": "NangongYuRhapsodyMuse.png",
         "InternalName": "Nangong Yu Rhapsody's Muse",
         "DisplayName": "Rhapsody's Muse"
       },
       {
-        "ModFilesName": "NangongYuHeartfeltSupport",
+        "ModFilesName": "NangongYu Heartfelt Support",
         "Image": "NangongYuHeartfeltSupport.webp",
         "InternalName": "NangongYuHeartfeltSupport",
         "DisplayName": "Heartfelt Support"
@@ -1202,13 +1202,13 @@
       {
         "ModFilesName": "RemielleMoonlightWhispers",
         "Image": "RemielleMoonlightWhispers.png",
-        "InternalName": "RemielleMoonlightWhispers",
+        "InternalName": "MoonlightWhispers",
         "DisplayName": "Moonlight Whispers"
       },
       {
         "ModFilesName": "RemielleSeashadePasSeul",
         "Image": "RemielleSeashadePasSeul.png",
-        "InternalName": "RemielleSeashadePasSeul",
+        "InternalName": "SeashadePasSeul",
         "DisplayName": "Seashade Pas Seul"
       }
     ],
@@ -1233,9 +1233,9 @@
     "ModFilesName": "Sigrid",
     "InGameSkins": [
       {
-        "ModFilesName": "MajesticWavechaser",
+        "ModFilesName": "SigridMajesticWavechaser",
         "Image": "SigridMajesticWavechaser.png",
-        "InternalName": "Sigrid Majestic Wavechaser",
+        "InternalName": "Majestic Wavechaser",
         "DisplayName": "Majestic Wavechaser"
       }
     ],
